@@ -1,0 +1,150 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p2_c000_para']"
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p5_c002_para']"
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p12_c000_para']"
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p7_c001_para', 'hust_student_handbook_2026_p7_c003_para']"
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p8_c001_para']"
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p9_c000_para']"
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": false,
+    "notes": "Failed to retrieve evidence, abstained on answerable question"
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": false,
+    "notes": "Failed to retrieve evidence, abstained on answerable question"
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p12_c000_para']"
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p13_c003_para']"
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p14_c000_para']"
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p15_c006_para']"
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p17_c000_para']"
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p21_c000_para']"
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": false,
+    "notes": "Answer grounded with valid citation: ['hust_student_handbook_2026_p26_c000_para']"
+  },
+  {
+    "query_id": "q_dev_unans_01",
+    "answer_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstained on unanswerable question"
+  },
+  {
+    "query_id": "q_dev_unans_02",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": false,
+    "notes": "Hallucination/false answer"
+  }
+]

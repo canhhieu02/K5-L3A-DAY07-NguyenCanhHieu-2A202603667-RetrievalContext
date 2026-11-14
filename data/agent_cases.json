@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Ngày thành lập trường Đại học Chuyên nghiệp Bách khoa theo nghị định của Bộ Giáo dục là ngày nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Sinh viên khi đến trường Đại học Bách khoa Hà Nội phải tuân thủ quy định gì về trang phục và thẻ sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Những hành vi nào bị nghiêm cấm đối với sinh viên liên quan đến nhân phẩm nhà giáo và gian lận trong học tập?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Mô hình và chương trình đào tạo tích hợp hệ chính quy được tổ chức theo cấu trúc thời gian như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Phương pháp lập kế hoạch học tập của sinh viên bao gồm những loại kế hoạch nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Để thực hiện kế hoạch học tập khoa học, sinh viên cần nhận biết những yếu tố nào của bản thân?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Việc đánh giá và phân loại kết quả điểm rèn luyện của sinh viên gồm những nội dung chính nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Tiêu chí điểm cộng tối đa trong đánh giá rèn luyện sinh viên là bao nhiêu và tiêu chí chấp hành pháp luật tối đa mấy điểm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Theo Thông tư số 40/2026/TT-BGDĐT, có những hình thức xử lý kỷ luật sinh viên nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Hoạt động nghiên cứu, sáng tạo và khởi nghiệp của sinh viên nhằm mục đích gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách được thực hiện theo văn bản quy phạm pháp luật nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Vấn đề cốt lõi đầu tiên trong quản lý tài chính cá nhân của sinh viên là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Học bổng Trần Đại Nghĩa của ĐHBK Hà Nội dành cho đối tượng sinh viên nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Dự án An sinh ra đời dựa trên thực tế thống kê nào về nhu cầu làm gia sư của sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Chi bộ Sinh viên Công nghệ thông tin và Truyền thông trực thuộc tổ chức nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Đội ngũ cán bộ giảng viên của Khoa Toán - Tin Đại học Bách khoa Hà Nội có số lượng và trình độ như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Vì sao sinh viên nên tham gia các tổ chức và hoạt động ngoại khóa?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Quan điểm đúng đắn về mục đích của việc đi làm thêm đối với sinh viên là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Sinh viên cần cảnh giác với chiêu trò lừa đảo nào dưới danh nghĩa việc làm thêm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Lời khuyên về xây dựng tình bạn, tình yêu và quan điểm về sống thử của sinh viên là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_dev_unans_01",
+    "split": "dev",
+    "question": "Mức học phí đại trà của Đại học Bách khoa Hà Nội vào năm 2035 được quy định là bao nhiêu triệu đồng một tín chỉ?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Sổ tay sinh viên 2026 chỉ cung cấp thông tin quy chế và học vụ hiện hành, không có quy định hay dự báo mức học phí năm 2035."
+  },
+  {
+    "id": "q_dev_unans_02",
+    "split": "dev",
+    "question": "Nhà trường có chính sách hỗ trợ 100% tiền vé máy bay khứ hồi cho toàn bộ sinh viên có hộ khẩu miền Nam về quê ăn Tết không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu chỉ có quy định về miễn giảm học phí và học bổng khuyến khích, không có chính sách hỗ trợ vé máy bay cho sinh viên miền Nam."
+  },
+  {
+    "id": "q_test_unans_01",
+    "split": "test",
+    "question": "Quy trình xin visa chuyển tiếp sang Viện Công nghệ Massachusetts (MIT) được trường Đại học Bách khoa Hà Nội hướng dẫn chi tiết ở điều mấy?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Sổ tay sinh viên không chứa điều khoản hay quy trình cụ thể nào về việc xin visa chuyển tiếp sang MIT."
+  },
+  {
+    "id": "q_test_unans_02",
+    "split": "test",
+    "question": "Sinh viên năm thứ nhất được cấp bao nhiêu thẻ đỗ xe ô tô miễn phí trong khuôn viên trường theo quy chế?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay chỉ có các quy định chung về trật tự nội vụ và thẻ sinh viên, hoàn toàn không có quy định cấp thẻ đỗ xe ô tô miễn phí cho sinh viên năm nhất."
+  }
+]

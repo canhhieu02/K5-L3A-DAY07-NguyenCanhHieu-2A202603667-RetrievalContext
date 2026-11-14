@@ -1,0 +1,809 @@
+[
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "đội ngũ cán bộ giảng viên Khoa Toán - Tin Đại học Bách khoa Hà Nội",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p35_c000_para",
+            "text": "68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01583,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p32_c000_para",
+            "text": "62 KHOA TOÁN - TIN FACULTY OF MATHEMATICS AND INFORMATICS CÁN BỘ GIẢNG VIÊN BAN CỐ VẤN HỌC TẬP Đội ngũ cán bộ của Khoa với 68 cán bộ trong đó có 55 cán bộ có học vị Tiến sỹ bao gồm 13 Phó giáo sư. Hầu hết được đào tạo Tiến sỹ ở các nước phát triển, có trình độ chuyên môn và nhiệt tình công tác. Khoa Toán-Tin, Đại học Bách khoa Hà Nội, là đơn vị nghiên cứu và đào tạo đại học, sau đại học có uy tín về lĩnh vực Toán học và Tin học. Khoa có các nhiệm vụ chính là: Giảng dạy và nghiên cứu Toán học , Toán ứng dụng và Tin học;",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01581,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p12_c006_para",
+            "text": "Đội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01577,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p35_c000_para | So_tay_sinh_vien_2026.pdf | page 35]\n68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và\n\n[hust_student_handbook_2026_p12_c006_para | So_tay_sinh_vien_2026.pdf | page 12]\nĐội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+        "context_ids": [
+          "hust_student_handbook_2026_p35_c000_para",
+          "hust_student_handbook_2026_p12_c006_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "đội ngũ cán bộ giảng viên Khoa Toán - Tin Đại học Bách khoa Hà Nội",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p35_c000_para",
+            "text": "68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01583,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p32_c000_para",
+            "text": "62 KHOA TOÁN - TIN FACULTY OF MATHEMATICS AND INFORMATICS CÁN BỘ GIẢNG VIÊN BAN CỐ VẤN HỌC TẬP Đội ngũ cán bộ của Khoa với 68 cán bộ trong đó có 55 cán bộ có học vị Tiến sỹ bao gồm 13 Phó giáo sư. Hầu hết được đào tạo Tiến sỹ ở các nước phát triển, có trình độ chuyên môn và nhiệt tình công tác. Khoa Toán-Tin, Đại học Bách khoa Hà Nội, là đơn vị nghiên cứu và đào tạo đại học, sau đại học có uy tín về lĩnh vực Toán học và Tin học. Khoa có các nhiệm vụ chính là: Giảng dạy và nghiên cứu Toán học , Toán ứng dụng và Tin học;",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 32,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01581,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p12_c006_para",
+            "text": "Đội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01577,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p35_c000_para | So_tay_sinh_vien_2026.pdf | page 35]\n68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và\n\n[hust_student_handbook_2026_p12_c006_para | So_tay_sinh_vien_2026.pdf | page 12]\nĐội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+        "context_ids": [
+          "hust_student_handbook_2026_p35_c000_para",
+          "hust_student_handbook_2026_p12_c006_para"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "q16",
+    "elapsed_s": 20.45
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "lợi ích tham gia hoạt động ngoại khóa sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p26_c001_para",
+            "text": "Sinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01511,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p49_c000_para",
+            "text": "96 Lý do bạn nên tham gia HOẠT ĐỘNG NGOẠI KHÓA Nếu không một lần tham gia các tổ chức của sinh viên, có rất nhiều điều bạn sẽ bỏ lỡ... NHỮNG NGƯỜI BẠN MỚI BẠN CÓ ĐAM MÊ VÀ CÓ THỂ CHIA SẺ ĐAM MÊ CỦA BẠN XUẤT PHÁT TỪ SỰ QUAN TÂM HOẶC SỞ THÍCH CỦA BẠN Đa phần sinh viên đều cảm thấy khó khăn để thích nghi với môi trường đại học, đặc biệt là tân sinh viên. Lớp học có thể rất lớn và đáng sợ và trò chuyện không được khuyến khích trong các bài giảng. Đây là lý do vì sao bạn nên tham gia hội sinh viên, câu lạc bộ, đặc biệt là nếu bạn khá nhút nhát và có quá",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 49,
+            "metadata": {
+              "section": "van_hoa",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01438,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p35_c000_para",
+            "text": "68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01382,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p26_c001_para | So_tay_sinh_vien_2026.pdf | page 26]\nSinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+        "context_ids": [
+          "hust_student_handbook_2026_p26_c001_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "lợi ích tham gia hoạt động ngoại khóa sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p26_c001_para",
+            "text": "Sinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01511,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p49_c000_para",
+            "text": "96 Lý do bạn nên tham gia HOẠT ĐỘNG NGOẠI KHÓA Nếu không một lần tham gia các tổ chức của sinh viên, có rất nhiều điều bạn sẽ bỏ lỡ... NHỮNG NGƯỜI BẠN MỚI BẠN CÓ ĐAM MÊ VÀ CÓ THỂ CHIA SẺ ĐAM MÊ CỦA BẠN XUẤT PHÁT TỪ SỰ QUAN TÂM HOẶC SỞ THÍCH CỦA BẠN Đa phần sinh viên đều cảm thấy khó khăn để thích nghi với môi trường đại học, đặc biệt là tân sinh viên. Lớp học có thể rất lớn và đáng sợ và trò chuyện không được khuyến khích trong các bài giảng. Đây là lý do vì sao bạn nên tham gia hội sinh viên, câu lạc bộ, đặc biệt là nếu bạn khá nhút nhát và có quá",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 49,
+            "metadata": {
+              "section": "van_hoa",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01438,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p35_c000_para",
+            "text": "68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01382,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p26_c001_para | So_tay_sinh_vien_2026.pdf | page 26]\nSinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+        "context_ids": [
+          "hust_student_handbook_2026_p26_c001_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "lợi ích tham gia hoạt động ngoại khóa sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p26_c001_para",
+            "text": "Sinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01511,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p49_c000_para",
+            "text": "96 Lý do bạn nên tham gia HOẠT ĐỘNG NGOẠI KHÓA Nếu không một lần tham gia các tổ chức của sinh viên, có rất nhiều điều bạn sẽ bỏ lỡ... NHỮNG NGƯỜI BẠN MỚI BẠN CÓ ĐAM MÊ VÀ CÓ THỂ CHIA SẺ ĐAM MÊ CỦA BẠN XUẤT PHÁT TỪ SỰ QUAN TÂM HOẶC SỞ THÍCH CỦA BẠN Đa phần sinh viên đều cảm thấy khó khăn để thích nghi với môi trường đại học, đặc biệt là tân sinh viên. Lớp học có thể rất lớn và đáng sợ và trò chuyện không được khuyến khích trong các bài giảng. Đây là lý do vì sao bạn nên tham gia hội sinh viên, câu lạc bộ, đặc biệt là nếu bạn khá nhút nhát và có quá",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 49,
+            "metadata": {
+              "section": "van_hoa",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01438,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p35_c000_para",
+            "text": "68 KHOA NGOẠI NGỮ FACULTY OF FOREIGN LANGUAGES CÁN BỘ GIẢNG VIÊN Đội ngũ cán bộ hiện nay gồm 96 cán bộ, trong đó có 03 Tiến sỹ, 08 Nghiên cứu sinh, 62 Thạc sỹ, 02 giáo viên nước ngoài, 20 Giảng viên chính, 13 cán bộ đang tham gia các khoá đào tạo Thạc sỹ và Tiến sỹ ở nước ngoài. Văn phòng: M312-C7 http://sofl.hust.edu.vn sofl@hust.edu.vn 024 38692201 Thông tin chi tiết xem tại đây Khoa Ngoại ngữ, Đại học Bách khoa Hà Nội là cơ sở đào tạo, nghiên cứu khoa học về ngôn ngữ- văn hóa cung cấp nguồn nhân lực chất lượng cao, giỏi chuyên môn, thành thạo ngoại ngữ và",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 35,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01382,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p26_c001_para | So_tay_sinh_vien_2026.pdf | page 26]\nSinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+        "context_ids": [
+          "hust_student_handbook_2026_p26_c001_para"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "q17",
+    "elapsed_s": 9.74
+  },
+  {
+    "status": "answered",
+    "answer": "Quan điểm đúng đắn về mục đích của việc đi làm thêm đối với sinh viên là làm thêm để tích lũy kinh nghiệm chứ không phải để mưu sinh [hust_student_handbook_2026_p51_c000_para]. Sinh viên nên ưu tiên chọn việc làm thêm gần với ngành nghề đang học, học hỏi kinh nghiệm từ các bậc tiền bối, đồng thời phải biết cân đối thời gian và sức khỏe [hust_student_handbook_2026_p51_c000_para]. Dù trong trường hợp hoàn cảnh gia đình khó khăn, mục đích cuối cùng của việc đi làm thêm vẫn phải là để đảm bảo việc học được hoàn thành một cách trọn vẹn và tốt đẹp hơn [hust_student_handbook_2026_p51_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p51_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "mục đích đi làm thêm sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p23_c003_para",
+            "text": "(Xem thêm tại phần Điểm rèn luyện) ĐỐI TƯỢNG SỬ DỤNG CỰU SINH VIÊN CÁN BỘ GIẢNG VIÊN SINH VIÊN CÁC TRƯỜNG, KHOA CỐ VẤN HỌC TẬP PHỤ HUYNH SINH VIÊN CÁN BỘ GIẢNG VIÊN HỌC SINH PHỔ THÔNG Để góp phần chia sẻ giá trị cốt lõi của con người Bách khoa tới xã hội, tạo điều kiện để Sinh viên tìm kiếm các thông tin hướng nghiệp và việc làm, Phòng Công tác Sinh viên ĐHBK Hà Nội đã xây dựng cổng thông tin hỗ trợ hướng nghiệp và việc làm sinh viên - HustWork.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01565,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p51_c000_para",
+            "text": "100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 51,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01547,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p52_c003_para",
+            "text": "như vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01517,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p23_c003_para | So_tay_sinh_vien_2026.pdf | page 23]\n(Xem thêm tại phần Điểm rèn luyện) ĐỐI TƯỢNG SỬ DỤNG CỰU SINH VIÊN CÁN BỘ GIẢNG VIÊN SINH VIÊN CÁC TRƯỜNG, KHOA CỐ VẤN HỌC TẬP PHỤ HUYNH SINH VIÊN CÁN BỘ GIẢNG VIÊN HỌC SINH PHỔ THÔNG Để góp phần chia sẻ giá trị cốt lõi của con người Bách khoa tới xã hội, tạo điều kiện để Sinh viên tìm kiếm các thông tin hướng nghiệp và việc làm, Phòng Công tác Sinh viên ĐHBK Hà Nội đã xây dựng cổng thông tin hỗ trợ hướng nghiệp và việc làm sinh viên - HustWork.\n\n[hust_student_handbook_2026_p51_c000_para | So_tay_sinh_vien_2026.pdf | page 51]\n100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến",
+        "context_ids": [
+          "hust_student_handbook_2026_p23_c003_para",
+          "hust_student_handbook_2026_p51_c000_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q18",
+    "elapsed_s": 9.23
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chiêu trò lừa đảo việc làm thêm sinh viên Bách khoa",
+        "filter": {
+          "section": "kinh_nghiem"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p51_c000_para",
+            "text": "100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 51,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p52_c000_para",
+            "text": "102 Hãy cảnh giác với các chiêu lừa đảo! Những công việc được sinh viên ưu tiên chọn lựa “ “ “ “ Gần đây có nhiều thông tin về các chiêu lừa đảo “việc làm thêm” (thực chất là kinh doanh đa cấp) với các mánh khóe mà sinh viên rất dễ bị mắc lừa. Các bạn có thể đọc được trên báo, trên mạng rất nhiều mẩu tin tuyển dụng khá hấp dẫn: công việc dễ làm, part-time, lương cao như gấp dán phong bì, nhặt bóng tennis, giao thư v.v… Hãy cẩn thận! Đã có rất nhiều người mắc bẫy. Khi đến công ty, văn phòng đó xin việc, họ được yêu cầu phải đóng các khoản tiền khoảng vài",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01609,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p52_c003_para",
+            "text": "như vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01598,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p51_c000_para | So_tay_sinh_vien_2026.pdf | page 51]\n100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến\n\n[hust_student_handbook_2026_p52_c003_para | So_tay_sinh_vien_2026.pdf | page 52]\nnhư vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+        "context_ids": [
+          "hust_student_handbook_2026_p51_c000_para",
+          "hust_student_handbook_2026_p52_c003_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "chiêu trò lừa đảo việc làm thêm sinh viên",
+        "filter": {
+          "section": "kinh_nghiem"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p52_c000_para",
+            "text": "102 Hãy cảnh giác với các chiêu lừa đảo! Những công việc được sinh viên ưu tiên chọn lựa “ “ “ “ Gần đây có nhiều thông tin về các chiêu lừa đảo “việc làm thêm” (thực chất là kinh doanh đa cấp) với các mánh khóe mà sinh viên rất dễ bị mắc lừa. Các bạn có thể đọc được trên báo, trên mạng rất nhiều mẩu tin tuyển dụng khá hấp dẫn: công việc dễ làm, part-time, lương cao như gấp dán phong bì, nhặt bóng tennis, giao thư v.v… Hãy cẩn thận! Đã có rất nhiều người mắc bẫy. Khi đến công ty, văn phòng đó xin việc, họ được yêu cầu phải đóng các khoản tiền khoảng vài",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01629,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p51_c000_para",
+            "text": "100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 51,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p52_c003_para",
+            "text": "như vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01587,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p51_c000_para | So_tay_sinh_vien_2026.pdf | page 51]\n100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến\n\n[hust_student_handbook_2026_p52_c003_para | So_tay_sinh_vien_2026.pdf | page 52]\nnhư vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+        "context_ids": [
+          "hust_student_handbook_2026_p51_c000_para",
+          "hust_student_handbook_2026_p52_c003_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "chiêu trò lừa đảo việc làm thêm sinh viên Bách khoa",
+        "filter": {
+          "section": "kinh_nghiem"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p51_c000_para",
+            "text": "100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 51,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p52_c000_para",
+            "text": "102 Hãy cảnh giác với các chiêu lừa đảo! Những công việc được sinh viên ưu tiên chọn lựa “ “ “ “ Gần đây có nhiều thông tin về các chiêu lừa đảo “việc làm thêm” (thực chất là kinh doanh đa cấp) với các mánh khóe mà sinh viên rất dễ bị mắc lừa. Các bạn có thể đọc được trên báo, trên mạng rất nhiều mẩu tin tuyển dụng khá hấp dẫn: công việc dễ làm, part-time, lương cao như gấp dán phong bì, nhặt bóng tennis, giao thư v.v… Hãy cẩn thận! Đã có rất nhiều người mắc bẫy. Khi đến công ty, văn phòng đó xin việc, họ được yêu cầu phải đóng các khoản tiền khoảng vài",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01609,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p52_c003_para",
+            "text": "như vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 52,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01598,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p51_c000_para | So_tay_sinh_vien_2026.pdf | page 51]\n100 Điều cần biết về LÀM THÊM 101 VIỆC LÀM THÊM Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối” Cân đối thời gian và sức khỏe “ “ “ “ “ “ “ “ Có rất nhiều bạn vì tình hình kinh tế gia đình khó khăn nên đi làm thêm để kiếm thêm tiền trả học phí, thuê nhà ăn uống,... và đủ thứ “tiền tiền và tiền” khác. Nhưng tất cả những điều đó cuối cùng cũng là để việc học của bạn được đảm bảo và hoàn thành một cách trọn vẹn, tốt đẹp hơn. Hãy luôn nhớ rằng bạn đi làm vì muốn học hỏi thêm kiến\n\n[hust_student_handbook_2026_p52_c003_para | So_tay_sinh_vien_2026.pdf | page 52]\nnhư vậy rất linh hoạt về thời gian làm việc. Mỗi ca làm việc sẽ có số thời gian nhất định và tổng lương của bạn được tính bằng cách cộng tất cả các giờ làm việc. Ngoài ra nếu làm việc tốt bạn sẽ được thưởng thêm. Để việc tìm cho mình một công việc part-time phù hợp, bạn có thể theo dõi nhóm Hỗ trợ việc làm Sinh viên Bách khoa Hà Nội: fb.com/groups/vieclamthemBKHN 103",
+        "context_ids": [
+          "hust_student_handbook_2026_p51_c000_para",
+          "hust_student_handbook_2026_p52_c003_para"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "q19",
+    "elapsed_s": 4.19
+  },
+  {
+    "status": "answered",
+    "answer": "Về tình bạn, sinh viên nên tìm những người bạn cởi mở nếu bản thân là người hòa đồng, hoặc tìm những người 'cùng chung chí hướng' nếu là người chững chạc để cảm thấy tự tin và ấm áp hơn [hust_student_handbook_2026_p53_c001_para]. Đối với tình yêu, việc nảy sinh tình cảm khi xa nhà là điều bình thường [hust_student_handbook_2026_p53_c001_para]. Về sống thử, tài liệu nhấn mạnh đây là 'sống thật 100%' chứ không chỉ là 'thử', đồng thời lưu ý sinh viên cần có kiến thức về an toàn tình dục, bao gồm cách phòng tránh thai và các bệnh lây qua đường tình dục [hust_student_handbook_2026_p53_c001_para] [hust_student_handbook_2026_p53_c003_para].",
+    "citations": [
+      "hust_student_handbook_2026_p53_c001_para",
+      "hust_student_handbook_2026_p53_c003_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "lời khuyên tình bạn tình yêu sống thử sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p53_c001_para",
+            "text": "tính bạn hòa đồng, vui tươi, hãy tìm những người bạn cởi mở như bạn. Còn với những ai chững chạc, thì hãy tìm những người “cùng chung chí hướng” với mình. Khi được đồng cảm, bạn sẽ thấy tự tin và ấm áp hơn. Trong hoàn cảnh mới bạn có nhiều không gian hơn, tự do hơn nhưng phần nào lại thiếu đi nhiều tình cảm do xa nhà, vì vậy sẽ không có gì ngạc nhiên nếu xuất hiện một bạn nam khiến bạn thấy cảm mến và rung động. Đó có thể gọi là tình yêu. Gọi là sống thử nhưng bản chất là sống thật 100% đấy, không có chuyện chỉ là “thử” thôi đâu nhé! Những thử phân tích một số câu “lý lẽ” xem là gì nào:",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 53,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p53_c003_para",
+            "text": "Cuối cùng, đó là vấn đề an toàn tình dục khi sống thử: các bạn cần phải biết cách phòng tránh thai cùng các bệnh lây qua đường tình dục. 105 MỤC TIÊU PHƯƠNG HƯỚNG Tương lai",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 53,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01599,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p53_c000_para",
+            "text": "104 XÂY DỰNG TÌNH BẠN TÌNH YÊU: SINH VIÊN RẤT DỄ...YÊU QUAN ĐIỂM VỀ SỐNG THỬ Học ở đại học, thành viên trong lớp đến từ mọi miền đất nước, các bạn sẽ có ngôn ngữ, quan điểm riêng. Vì thế không nên chê bai nguồn gốc của nhau và nghĩ rằng mình mới là nhất. Hãy học cho mình cách lắng nghe và tôn trọng mọi người. Hãy học cách thích nghi, tránh khép mình và cảm thấy mặc cảm về việc bạn không biết điều gì đó, nên nhớ ở đây mọi thứ cần sự chủ động càng sớm thích nghi tốt hơn bạn sẽ càng thoải mái hơn trong cuộc sống lẫn học tập. Hãy tìm những người bạn có cùng sở trường:",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 53,
+            "metadata": {
+              "section": "kinh_nghiem",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01577,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p53_c001_para | So_tay_sinh_vien_2026.pdf | page 53]\ntính bạn hòa đồng, vui tươi, hãy tìm những người bạn cởi mở như bạn. Còn với những ai chững chạc, thì hãy tìm những người “cùng chung chí hướng” với mình. Khi được đồng cảm, bạn sẽ thấy tự tin và ấm áp hơn. Trong hoàn cảnh mới bạn có nhiều không gian hơn, tự do hơn nhưng phần nào lại thiếu đi nhiều tình cảm do xa nhà, vì vậy sẽ không có gì ngạc nhiên nếu xuất hiện một bạn nam khiến bạn thấy cảm mến và rung động. Đó có thể gọi là tình yêu. Gọi là sống thử nhưng bản chất là sống thật 100% đấy, không có chuyện chỉ là “thử” thôi đâu nhé! Những thử phân tích một số câu “lý lẽ” xem là gì nào:\n\n[hust_student_handbook_2026_p53_c003_para | So_tay_sinh_vien_2026.pdf | page 53]\nCuối cùng, đó là vấn đề an toàn tình dục khi sống thử: các bạn cần phải biết cách phòng tránh thai cùng các bệnh lây qua đường tình dục. 105 MỤC TIÊU PHƯƠNG HƯỚNG Tương lai",
+        "context_ids": [
+          "hust_student_handbook_2026_p53_c001_para",
+          "hust_student_handbook_2026_p53_c003_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q20",
+    "elapsed_s": 2.65
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy trình xin visa chuyển tiếp MIT Đại học Bách khoa Hà Nội",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p26_c006_para",
+            "text": "Phòng chuyển sinh hoạt đảng tại Đảng ủy Khối các trường ĐH, CĐ Hà Nội Lịch làm việc: Giờ hành chính Địa chỉ: Phòng 106 nhà 2C – Trụ sở Thành ủy Hà Nội, số 219 Trần Phú, quận Hà Đông, thành Phố Hà Nội Điện thoại: 02433.546.354 | Email: vanthudukctdhcd@hanoi.gov.vn Lịch làm việc: Giờ hành chính Văn phòng Đảng Ủy Đại học Bách khoa Hà Nội Lịch chuyển sinh hoạt Đảng: 8h30 – 11h00 ngày thứ Ba, Tư, Năm hàng tuần. Địa chỉ: Phòng 203 – C2, Đại học Bách khoa Hà Nội Số điện thoại: 024.3869 2743",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01629,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p12_c006_para",
+            "text": "Đội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01572,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p26_c006_para | So_tay_sinh_vien_2026.pdf | page 26]\nPhòng chuyển sinh hoạt đảng tại Đảng ủy Khối các trường ĐH, CĐ Hà Nội Lịch làm việc: Giờ hành chính Địa chỉ: Phòng 106 nhà 2C – Trụ sở Thành ủy Hà Nội, số 219 Trần Phú, quận Hà Đông, thành Phố Hà Nội Điện thoại: 02433.546.354 | Email: vanthudukctdhcd@hanoi.gov.vn Lịch làm việc: Giờ hành chính Văn phòng Đảng Ủy Đại học Bách khoa Hà Nội Lịch chuyển sinh hoạt Đảng: 8h30 – 11h00 ngày thứ Ba, Tư, Năm hàng tuần. Địa chỉ: Phòng 203 – C2, Đại học Bách khoa Hà Nội Số điện thoại: 024.3869 2743\n\n[hust_student_handbook_2026_p13_c004_para | So_tay_sinh_vien_2026.pdf | page 13]\ntín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND\n\n[hust_student_handbook_2026_p12_c006_para | So_tay_sinh_vien_2026.pdf | page 12]\nĐội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+        "context_ids": [
+          "hust_student_handbook_2026_p26_c006_para",
+          "hust_student_handbook_2026_p13_c004_para",
+          "hust_student_handbook_2026_p12_c006_para"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "q_test_unans_01",
+    "elapsed_s": 2.08
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy định cấp thẻ đỗ xe ô tô sinh viên năm thứ nhất Bách khoa 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p3_c000_para",
+            "text": "4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 3,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01485,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p4_c000_para",
+            "text": "6 7\nQUY CHẾ, QUY ĐỊNH,\nTHỦ TỤC CẦN NẮM VỮNG\nMỤC LỤC\n07 - 48\nQUY CHẾ, QUY ĐỊNH, THỦ TỤC\nCẦN NẮM VỮNG\n49 - 54\nĐẢNG ỦY, CHI BỘ SINH VIÊN\nĐOÀN THANH NIÊN, HỘI SINH VIÊN\n55 - 58\nBAN, TRUNG TÂM\n59 - 69\nTRƯỜNG, KHOA ĐÀO TẠO\n70 - 78\nBỘ QUY TẮC ỨNG XỬ\nVĂN HÓA SV BÁCH KHOA\n79 - 107\nCHIA SẺ KINH NGHIỆM",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 4,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01454,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p2_c004_para",
+            "text": "lực và tự chủ đại học. 10/2026 Tổ chức chuỗi hoạt động kỷ niệm 70 năm thành lập trường (1956–2026), khẳng định chặng đường bảy thập kỷ phát triển và đổi mới sáng tạo. Mùng 1 Tết Mậu Tuất 1958, Bác về thăm Trường ĐHBK Hà Nội lần đầu tiên. Ngày 17/6/1960, Bác về thăm lần thứ 2 cùng Đoàn đại biểu chính phủ Anbani. Ngày 11/3/1962, Bác đến thăm Trường lần thứ 3 cùng đoàn đại biểu Lào do nhà Vua dẫn dầu. Tháng 8/2000, Trường đón nhận danh hiệu Anh hùng lao động trong thời kỳ đổi mới. Ngày 15/10/2001, vinh dự được Nhà nước trao tặng Huân chương Hồ Chí Minh. Tháng 4/2006, đón nhận danh hiệu Anh",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 2,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01355,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p3_c000_para | So_tay_sinh_vien_2026.pdf | page 3]\n4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.\n\n[hust_student_handbook_2026_p4_c000_para | So_tay_sinh_vien_2026.pdf | page 4]\n6 7\nQUY CHẾ, QUY ĐỊNH,\nTHỦ TỤC CẦN NẮM VỮNG\nMỤC LỤC\n07 - 48\nQUY CHẾ, QUY ĐỊNH, THỦ TỤC\nCẦN NẮM VỮNG\n49 - 54\nĐẢNG ỦY, CHI BỘ SINH VIÊN\nĐOÀN THANH NIÊN, HỘI SINH VIÊN\n55 - 58\nBAN, TRUNG TÂM\n59 - 69\nTRƯỜNG, KHOA ĐÀO TẠO\n70 - 78\nBỘ QUY TẮC ỨNG XỬ\nVĂN HÓA SV BÁCH KHOA\n79 - 107\nCHIA SẺ KINH NGHIỆM",
+        "context_ids": [
+          "hust_student_handbook_2026_p3_c000_para",
+          "hust_student_handbook_2026_p4_c000_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "quy định cấp thẻ đỗ xe ô tô sinh viên",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p17_c002_para",
+            "text": "Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật từ mức cảnh cáo trở lên. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đã được nhận học bổng KKHT hoặc học bổng tài trợ trong học kỳ xét, cấp học bổng Trần Đại Nghĩa. Không xét, cấp học bổng Trần Đại Nghĩa cho sinh viên diện chế độ chính sách được miễn, giảm học phí theo quy định của Nhà nước. HỌC BỔNG TRAO ĐỔI SINH VIÊN ĐỐI TƯỢNG HỌC BỔNG MỨC HỌC BỔNG Học bổng xét cấp cho sinh viên xếp hạng trình độ năm học từ năm thứ 3 trở đi có CPA ≥ 3.2, ĐRL tích lũy ≥ 80, có trình độ ngoại ngữ và môn",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01344,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p5_c000_para",
+            "text": "8 9 1 QUY ĐỊNH SINH VIÊN CẦN LƯU Ý Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục gọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của trường đại học. Trường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc độ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định. Xe taxi không được vào trường. Không được tự ý mang tài sản của trường ra ngoài khuôn viên trường. Sau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công cộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn nghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 5,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p48_c002_para",
+            "text": "bị cướp, giật khi nghe điện thoại. Với các bước thao tác rất đơn giản trên smartphone, chúng ta có thể tìm kiếm mọi tuyến xe buýt. Ngoài ra, với ứng dụng này người dùng có thể biết được điểm đi, điểm đến và theo dõi thời gian các xe sắp đến nhờ có định vị. Cùng với đó, bạn còn có thể tìm kiếm các dịch vụ của Tổng công ty, thông tin về cây ATM, khu vui chơi giải trí,nhà hàng, hay các điểm du lịch… tại Hà Nội. Các bạn sinh viên sẽ sử dụng thẻ gửi xe để có thể ra vào bãi gửi xe (Làm thẻ tại Trung tâm dịch vụ và hỗ trợ Bách khoa, B9 - 101). Sử dụng thẻ",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 48,
+            "metadata": {
+              "section": "van_hoa",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00968,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p3_c000_para | So_tay_sinh_vien_2026.pdf | page 3]\n4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.\n\n[hust_student_handbook_2026_p4_c000_para | So_tay_sinh_vien_2026.pdf | page 4]\n6 7\nQUY CHẾ, QUY ĐỊNH,\nTHỦ TỤC CẦN NẮM VỮNG\nMỤC LỤC\n07 - 48\nQUY CHẾ, QUY ĐỊNH, THỦ TỤC\nCẦN NẮM VỮNG\n49 - 54\nĐẢNG ỦY, CHI BỘ SINH VIÊN\nĐOÀN THANH NIÊN, HỘI SINH VIÊN\n55 - 58\nBAN, TRUNG TÂM\n59 - 69\nTRƯỜNG, KHOA ĐÀO TẠO\n70 - 78\nBỘ QUY TẮC ỨNG XỬ\nVĂN HÓA SV BÁCH KHOA\n79 - 107\nCHIA SẺ KINH NGHIỆM",
+        "context_ids": [
+          "hust_student_handbook_2026_p3_c000_para",
+          "hust_student_handbook_2026_p4_c000_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "quy định cấp thẻ đỗ xe ô tô sinh viên năm thứ nhất",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p14_c007_para",
+            "text": "- Sinh viên năm thứ nhất: có 3 năm THPT đạt loại Khá hoặc các môn Toán, lý, hoá, sinh lớp 12 từ 8.0 trở lên - Sinh viên từ năm thứ 2 trở đi: có kết quả học tập trung bình của năm học liền trước đạt loại giỏi trở lên (từ 3.2 trở lên). ĐỊNH MỨC VAY: toàn bộ tiền học phí phải đóng của theo xác nhận của ĐHBK Hà Nội và tiền sinh hoạt phí và chi phí học tập khác tối đa là 5 triệu đồng/tháng.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 14,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01464,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p5_c000_para",
+            "text": "8 9 1 QUY ĐỊNH SINH VIÊN CẦN LƯU Ý Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục gọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của trường đại học. Trường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc độ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định. Xe taxi không được vào trường. Không được tự ý mang tài sản của trường ra ngoài khuôn viên trường. Sau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công cộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn nghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 5,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p48_c002_para",
+            "text": "bị cướp, giật khi nghe điện thoại. Với các bước thao tác rất đơn giản trên smartphone, chúng ta có thể tìm kiếm mọi tuyến xe buýt. Ngoài ra, với ứng dụng này người dùng có thể biết được điểm đi, điểm đến và theo dõi thời gian các xe sắp đến nhờ có định vị. Cùng với đó, bạn còn có thể tìm kiếm các dịch vụ của Tổng công ty, thông tin về cây ATM, khu vui chơi giải trí,nhà hàng, hay các điểm du lịch… tại Hà Nội. Các bạn sinh viên sẽ sử dụng thẻ gửi xe để có thể ra vào bãi gửi xe (Làm thẻ tại Trung tâm dịch vụ và hỗ trợ Bách khoa, B9 - 101). Sử dụng thẻ",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 48,
+            "metadata": {
+              "section": "van_hoa",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00968,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p3_c000_para | So_tay_sinh_vien_2026.pdf | page 3]\n4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.\n\n[hust_student_handbook_2026_p4_c000_para | So_tay_sinh_vien_2026.pdf | page 4]\n6 7\nQUY CHẾ, QUY ĐỊNH,\nTHỦ TỤC CẦN NẮM VỮNG\nMỤC LỤC\n07 - 48\nQUY CHẾ, QUY ĐỊNH, THỦ TỤC\nCẦN NẮM VỮNG\n49 - 54\nĐẢNG ỦY, CHI BỘ SINH VIÊN\nĐOÀN THANH NIÊN, HỘI SINH VIÊN\n55 - 58\nBAN, TRUNG TÂM\n59 - 69\nTRƯỜNG, KHOA ĐÀO TẠO\n70 - 78\nBỘ QUY TẮC ỨNG XỬ\nVĂN HÓA SV BÁCH KHOA\n79 - 107\nCHIA SẺ KINH NGHIỆM",
+        "context_ids": [
+          "hust_student_handbook_2026_p3_c000_para",
+          "hust_student_handbook_2026_p4_c000_para"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "q_test_unans_02",
+    "elapsed_s": 4.27
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "strategy": "Dense Retrieval (pgvector)",
+    "n": 15,
+    "hit1": "2/15 (13.3%)",
+    "hit3": "5/15 (33.3%)",
+    "context_evidence_rate": "2/15 (13.3%)",
+    "median_latency_ms": 54.78,
+    "mean_latency_ms": 62.8
+  },
+  {
+    "strategy": "Dense + Filter (pgvector)",
+    "n": 15,
+    "hit1": "2/15 (13.3%)",
+    "hit3": "6/15 (40.0%)",
+    "context_evidence_rate": "2/15 (13.3%)",
+    "median_latency_ms": 47.02,
+    "mean_latency_ms": 49.12
+  },
+  {
+    "strategy": "Lexical Retrieval (TF-IDF)",
+    "n": 15,
+    "hit1": "10/15 (66.7%)",
+    "hit3": "13/15 (86.7%)",
+    "context_evidence_rate": "10/15 (66.7%)",
+    "median_latency_ms": 1.71,
+    "mean_latency_ms": 1.69
+  },
+  {
+    "strategy": "Hybrid Retrieval (RRF)",
+    "n": 15,
+    "hit1": "5/15 (33.3%)",
+    "hit3": "8/15 (53.3%)",
+    "context_evidence_rate": "5/15 (33.3%)",
+    "median_latency_ms": 47.86,
+    "mean_latency_ms": 50.5
+  },
+  {
+    "strategy": "Hybrid + Filter (RRF)",
+    "n": 15,
+    "hit1": "6/15 (40.0%)",
+    "hit3": "8/15 (53.3%)",
+    "context_evidence_rate": "6/15 (40.0%)",
+    "median_latency_ms": 46.27,
+    "mean_latency_ms": 49.82
+  }
+]

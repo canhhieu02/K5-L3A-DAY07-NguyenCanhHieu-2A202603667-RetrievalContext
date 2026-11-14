@@ -1,0 +1,314 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Ngày thành lập trường Đại học Chuyên nghiệp Bách khoa theo nghị định của Bộ Giáo dục là ngày nào?",
+    "expected_answer": "Ngày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên ký nghị định 147/NĐ thành lập trường Đại học Chuyên nghiệp Bách khoa.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 2,
+        "evidence": "Ngày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã ký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên nghiệp Bách khoa nay là trường ĐHBK Hà Nội."
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Sinh viên khi đến trường Đại học Bách khoa Hà Nội phải tuân thủ quy định gì về trang phục và thẻ sinh viên?",
+    "expected_answer": "Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục gọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của trường đại học.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 5,
+        "evidence": "Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục gọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của trường đại học."
+      }
+    ],
+    "filter": {
+      "section": "quy_che"
+    }
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Những hành vi nào bị nghiêm cấm đối với sinh viên liên quan đến nhân phẩm nhà giáo và gian lận trong học tập?",
+    "expected_answer": "Nghiêm cấm xúc phạm danh dự, nhân phẩm, xâm phạm thân thể nhà giáo, cán bộ; và gian lận trong học tập, thi cử như quay cóp, sử dụng tài liệu không được phép.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 6,
+        "evidence": "Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể nhà giáo, cán bộ, người lao động, người học của Đại học và người khác. Gian lận trong học tập, kiểm tra, thi cử như quay cóp, sử dụng tài liệu hoặc thiết bị không được phép"
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Mô hình và chương trình đào tạo tích hợp hệ chính quy được tổ chức theo cấu trúc thời gian như thế nào?",
+    "expected_answer": "Các chương trình đào tạo được tổ chức theo mô hình 4+1,5 với tổng thời gian đào tạo là 5,5 năm đối với người học cùng ngành theo tiến độ chuẩn.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 7,
+        "evidence": "Các chương trình đào tạo được tổ chức theo mô hình 4+1,5 (tổng thời gian đào tạo là 5,5 năm đối với người học cùng ngành và theo tiến độ chuẩn)."
+      }
+    ],
+    "filter": {
+      "section": "quy_che"
+    }
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Phương pháp lập kế hoạch học tập của sinh viên bao gồm những loại kế hoạch nào?",
+    "expected_answer": "Kế hoạch học tập gồm kế hoạch học tập toàn khóa và kế hoạch học tập từng kỳ, thể hiện lộ trình theo thời gian.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 8,
+        "evidence": "Kế hoạch học tập toàn khóa Kế hoạch học tập từng kỳ"
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Để thực hiện kế hoạch học tập khoa học, sinh viên cần nhận biết những yếu tố nào của bản thân?",
+    "expected_answer": "Cần tự biết những thói quen và cá tính của bản thân, sắp xếp thời gian học tập khoa học để đạt mục tiêu của kỳ học.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 9,
+        "evidence": "Cần tự biết những thói quen của bản thân Cần tự biết cá tính của bản thân QUY TẮC SẮP XẾP THỜI GIAN KHOA HỌC"
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Việc đánh giá và phân loại kết quả điểm rèn luyện của sinh viên gồm những nội dung chính nào?",
+    "expected_answer": "Đánh giá các mặt trách nhiệm chấp hành pháp luật, nội quy quy chế nhà trường, cách thức quy trình và sử dụng kết quả đánh giá.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 10,
+        "evidence": "ĐIỂM RÈN LUYỆN SINH VIÊN CÁC MẶT ĐÁNH GIÁ CÁCH THỨC VÀ QUY TRÌNH PHÂN LOẠI KẾT QUẢ RÈN LUYỆN SỬ DỤNG KẾT QUẢ ĐÁNH GIÁ"
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Tiêu chí điểm cộng tối đa trong đánh giá rèn luyện sinh viên là bao nhiêu và tiêu chí chấp hành pháp luật tối đa mấy điểm?",
+    "expected_answer": "Tổng điểm cộng tối đa là 100 điểm, trong đó Tiêu chí 1 (chấp hành pháp luật và nội quy, quy chế nhà trường) tối đa 25 điểm.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 11,
+        "evidence": "Tiêu chí điểm cộng (Tối đa 100 điểm) TC1 Chấp hành pháp luật và nội quy, quy chế của nhà trường (tối đa 25 điểm)"
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Theo Thông tư số 40/2026/TT-BGDĐT, có những hình thức xử lý kỷ luật sinh viên nào?",
+    "expected_answer": "Có 4 hình thức gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 12,
+        "evidence": "Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học."
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Hoạt động nghiên cứu, sáng tạo và khởi nghiệp của sinh viên nhằm mục đích gì?",
+    "expected_answer": "Nhằm hỗ trợ chuyên môn và cơ sở vật chất cho sinh viên tham gia thực hiện nghiên cứu, tạo ra các sản phẩm nghiên cứu và sáng tạo.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 13,
+        "evidence": "Được ra đời nhằm hỗ trợ chuyên môn và cơ sở vật chất cho sinh viên tham gia và thực hiện nghiên cứu xung quanh các chủ đề, tạo ra các sản phẩm nghiên cứu"
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách được thực hiện theo văn bản quy phạm pháp luật nào?",
+    "expected_answer": "Theo Nghị định số 238/2025/NĐ-CP ngày 03/09/2025 của Chính phủ.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 14,
+        "evidence": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách (CĐCS) được thực hiện theo Nghị định số 238/2025/NĐ-CP, ngày 03/09/2025 của Chính phủ."
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Vấn đề cốt lõi đầu tiên trong quản lý tài chính cá nhân của sinh viên là gì?",
+    "expected_answer": "Quản lý ngân sách tháng, chủ động quản lý tài chính cá nhân để ổn định đời sống và tiếp cận các chương trình hỗ trợ.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 15,
+        "evidence": "NHỮNG VẤN ĐỀ CỐT LÕI VỀ TÀI CHÍNH CÁ NHÂN 1. QUẢN LÝ NGÂN SÁCH THÁNG Mỗi sinh viên cần chủ động quản lý tài chính cá nhân để ổn định đời sống"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Học bổng Trần Đại Nghĩa của ĐHBK Hà Nội dành cho đối tượng sinh viên nào?",
+    "expected_answer": "Xét cấp cho sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn như hộ nghèo, cận nghèo.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 17,
+        "evidence": "Học bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Dự án An sinh ra đời dựa trên thực tế thống kê nào về nhu cầu làm gia sư của sinh viên?",
+    "expected_answer": "Trên 30% sinh viên ĐHBK Hà Nội từng hoặc có nguyện vọng làm gia sư các môn Toán, Lý, Hóa, Tiếng Anh, Tin học.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 21,
+        "evidence": "Theo thống kê, có trên 30% sinh viên ĐHB - KHN đã từng hoặc có nguyện vọng làm gia sư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin học"
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Chi bộ Sinh viên Công nghệ thông tin và Truyền thông trực thuộc tổ chức nào?",
+    "expected_answer": "Thuộc Đảng ủy trường với các chi bộ sinh viên theo từng Trường/Khoa đào tạo.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 26,
+        "evidence": "Chi bộ Sinh viên Công nghệ thông tin và Truyền thông Sinh viên thuộc Trường Công nghệ thông tin và Truyền thông"
+      }
+    ],
+    "filter": {
+      "section": "doan_hoi"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Đội ngũ cán bộ giảng viên của Khoa Toán - Tin Đại học Bách khoa Hà Nội có số lượng và trình độ như thế nào?",
+    "expected_answer": "Khoa có 68 cán bộ, trong đó có 55 cán bộ có học vị Tiến sỹ bao gồm 13 Phó giáo sư.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 32,
+        "evidence": "Đội ngũ cán bộ của Khoa với 68 cán bộ trong đó có 55 cán bộ có học vị Tiến sỹ bao gồm 13 Phó giáo sư."
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Vì sao sinh viên nên tham gia các tổ chức và hoạt động ngoại khóa?",
+    "expected_answer": "Để kết nối những người bạn mới, chia sẻ đam mê và sở thích, tránh bỏ lỡ các trải nghiệm quý giá thời sinh viên.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 49,
+        "evidence": "Nếu không một lần tham gia các tổ chức của sinh viên, có rất nhiều điều bạn sẽ bỏ lỡ... NHỮNG NGƯỜI BẠN MỚI BẠN CÓ ĐAM MÊ VÀ CÓ THỂ CHIA SẺ ĐAM MÊ"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Quan điểm đúng đắn về mục đích của việc đi làm thêm đối với sinh viên là gì?",
+    "expected_answer": "Làm thêm là vì tích lũy kinh nghiệm và chọn việc gần với ngành nghề học tập, chứ không phải để mưu sinh.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 51,
+        "evidence": "Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối”"
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Sinh viên cần cảnh giác với chiêu trò lừa đảo nào dưới danh nghĩa việc làm thêm?",
+    "expected_answer": "Cảnh giác với các chiêu lừa đảo việc làm thêm thực chất là kinh doanh đa cấp biến tướng hoặc thu tiền cọc bất chính.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 52,
+        "evidence": "Hãy cảnh giác với các chiêu lừa đảo! Những công việc được sinh viên ưu tiên chọn lựa “ “ “ “ Gần đây có nhiều thông tin về các chiêu lừa đảo “việc làm thêm” (thực chất là kinh doanh đa"
+      }
+    ],
+    "filter": {
+      "section": "kinh_nghiem"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Lời khuyên về xây dựng tình bạn, tình yêu và quan điểm về sống thử của sinh viên là gì?",
+    "expected_answer": "Sinh viên đến từ mọi miền đất nước có phong tục ngôn ngữ khác nhau cần tôn trọng sự khác biệt, thận trọng và có trách nhiệm trong tình cảm và lối sống.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 53,
+        "evidence": "SINH VIÊN RẤT DỄ...YÊU QUAN ĐIỂM VỀ SỐNG THỬ Học ở đại học, thành viên trong lớp đến từ mọi miền đất nước, các bạn sẽ có ngôn ngữ"
+      }
+    ]
+  },
+  {
+    "id": "q_dev_unans_01",
+    "split": "dev",
+    "question": "Mức học phí đại trà của Đại học Bách khoa Hà Nội vào năm 2035 được quy định là bao nhiêu triệu đồng một tín chỉ?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Sổ tay sinh viên 2026 chỉ cung cấp thông tin quy chế và học vụ hiện hành, không có quy định hay dự báo mức học phí năm 2035.",
+    "expected_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "gold": []
+  },
+  {
+    "id": "q_dev_unans_02",
+    "split": "dev",
+    "question": "Nhà trường có chính sách hỗ trợ 100% tiền vé máy bay khứ hồi cho toàn bộ sinh viên có hộ khẩu miền Nam về quê ăn Tết không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu chỉ có quy định về miễn giảm học phí và học bổng khuyến khích, không có chính sách hỗ trợ vé máy bay cho sinh viên miền Nam.",
+    "expected_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "gold": []
+  },
+  {
+    "id": "q_test_unans_01",
+    "split": "test",
+    "question": "Quy trình xin visa chuyển tiếp sang Viện Công nghệ Massachusetts (MIT) được trường Đại học Bách khoa Hà Nội hướng dẫn chi tiết ở điều mấy?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Sổ tay sinh viên không chứa điều khoản hay quy trình cụ thể nào về việc xin visa chuyển tiếp sang MIT.",
+    "expected_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "gold": []
+  },
+  {
+    "id": "q_test_unans_02",
+    "split": "test",
+    "question": "Sinh viên năm thứ nhất được cấp bao nhiêu thẻ đỗ xe ô tô miễn phí trong khuôn viên trường theo quy chế?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay chỉ có các quy định chung về trật tự nội vụ và thẻ sinh viên, hoàn toàn không có quy định cấp thẻ đỗ xe ô tô miễn phí cho sinh viên năm nhất.",
+    "expected_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "gold": []
+  }
+]

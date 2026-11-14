@@ -1,0 +1,1361 @@
+[
+  {
+    "status": "answered",
+    "answer": "Trường Đại học Chuyên nghiệp Bách khoa (nay là trường ĐHBK Hà Nội) được thành lập vào ngày 6/3/1956 theo nghị định 147/NĐ của Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên [hust_student_handbook_2026_p2_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p2_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngày thành lập trường Đại học Bách khoa Hà Nội nghị định",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p2_c000_para",
+            "text": "2 3 NHỮNG ĐIỂM MỐC LỊCH SỬ QUAN TRỌNG 1956 Ngày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã ký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên nghiệp Bách khoa nay là trường ĐHBK Hà Nội. Ngày 15/10/1956,Trường đã long trọng tổ chức “Lễ khai giảng khóa I” cho 848 sinh viên vào 14 ngành của 04 liên khoa Cơ-Điện, Mỏ-Luyện kim, Xây dựng, Hóa-Thực phẩm. 1960 Ngày 7/11/1960 với sự giúp đỡ hết lòng của Chính phủ và nhân dân Liên Xô, nhân dịp kỷ niệm Cách mạng tháng Mười Nga vĩ đại, trường ĐHBK Hà Nội khởi công xây dựng khu trường mới",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 2,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01599,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p26_c006_para",
+            "text": "Phòng chuyển sinh hoạt đảng tại Đảng ủy Khối các trường ĐH, CĐ Hà Nội Lịch làm việc: Giờ hành chính Địa chỉ: Phòng 106 nhà 2C – Trụ sở Thành ủy Hà Nội, số 219 Trần Phú, quận Hà Đông, thành Phố Hà Nội Điện thoại: 02433.546.354 | Email: vanthudukctdhcd@hanoi.gov.vn Lịch làm việc: Giờ hành chính Văn phòng Đảng Ủy Đại học Bách khoa Hà Nội Lịch chuyển sinh hoạt Đảng: 8h30 – 11h00 ngày thứ Ba, Tư, Năm hàng tuần. Địa chỉ: Phòng 203 – C2, Đại học Bách khoa Hà Nội Số điện thoại: 024.3869 2743",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01587,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01568,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p2_c000_para | So_tay_sinh_vien_2026.pdf | page 2]\n2 3 NHỮNG ĐIỂM MỐC LỊCH SỬ QUAN TRỌNG 1956 Ngày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã ký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên nghiệp Bách khoa nay là trường ĐHBK Hà Nội. Ngày 15/10/1956,Trường đã long trọng tổ chức “Lễ khai giảng khóa I” cho 848 sinh viên vào 14 ngành của 04 liên khoa Cơ-Điện, Mỏ-Luyện kim, Xây dựng, Hóa-Thực phẩm. 1960 Ngày 7/11/1960 với sự giúp đỡ hết lòng của Chính phủ và nhân dân Liên Xô, nhân dịp kỷ niệm Cách mạng tháng Mười Nga vĩ đại, trường ĐHBK Hà Nội khởi công xây dựng khu trường mới\n\n[hust_student_handbook_2026_p26_c006_para | So_tay_sinh_vien_2026.pdf | page 26]\nPhòng chuyển sinh hoạt đảng tại Đảng ủy Khối các trường ĐH, CĐ Hà Nội Lịch làm việc: Giờ hành chính Địa chỉ: Phòng 106 nhà 2C – Trụ sở Thành ủy Hà Nội, số 219 Trần Phú, quận Hà Đông, thành Phố Hà Nội Điện thoại: 02433.546.354 | Email: vanthudukctdhcd@hanoi.gov.vn Lịch làm việc: Giờ hành chính Văn phòng Đảng Ủy Đại học Bách khoa Hà Nội Lịch chuyển sinh hoạt Đảng: 8h30 – 11h00 ngày thứ Ba, Tư, Năm hàng tuần. Địa chỉ: Phòng 203 – C2, Đại học Bách khoa Hà Nội Số điện thoại: 024.3869 2743",
+        "context_ids": [
+          "hust_student_handbook_2026_p2_c000_para",
+          "hust_student_handbook_2026_p26_c006_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q01",
+    "elapsed_s": 2.34
+  },
+  {
+    "status": "answered",
+    "answer": "Khi đến trường Đại học Bách khoa Hà Nội, sinh viên cần tuân thủ quy định về trang phục phù hợp với môi trường sư phạm và phải đeo thẻ sinh viên/học viên [hust_student_handbook_2026_p5_c002_para].",
+    "citations": [
+      "hust_student_handbook_2026_p5_c002_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy định trang phục thẻ sinh viên Đại học Bách khoa Hà Nội",
+        "filter": {
+          "section": "quy_che"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01629,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p17_c005_para",
+            "text": "Tăng cường hội nhập quốc tế, góp phần quảng bá và nâng cao hình ảnh, vị thế của Đại học Bách khoa Hà Nội. Thu hút học sinh xuất sắc vào học tại ĐHBK Hà Nội",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01587,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p5_c002_para",
+            "text": "Trang phục phù hợp với môi trường sư phạm; đeo thẻ sinh viên/học viên khi đến Trường. Ứng xử chuẩn mực, văn minh trên môi trường mạng. Có ý thức, trách nhiệm bảo vệ danh tiếng và tài sản của Trường. 2 3 4 5 6 Xem thêm tại đây:",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 5,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01583,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p13_c004_para | So_tay_sinh_vien_2026.pdf | page 13]\ntín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND\n\n[hust_student_handbook_2026_p17_c005_para | So_tay_sinh_vien_2026.pdf | page 17]\nTăng cường hội nhập quốc tế, góp phần quảng bá và nâng cao hình ảnh, vị thế của Đại học Bách khoa Hà Nội. Thu hút học sinh xuất sắc vào học tại ĐHBK Hà Nội\n\n[hust_student_handbook_2026_p5_c002_para | So_tay_sinh_vien_2026.pdf | page 5]\nTrang phục phù hợp với môi trường sư phạm; đeo thẻ sinh viên/học viên khi đến Trường. Ứng xử chuẩn mực, văn minh trên môi trường mạng. Có ý thức, trách nhiệm bảo vệ danh tiếng và tài sản của Trường. 2 3 4 5 6 Xem thêm tại đây:",
+        "context_ids": [
+          "hust_student_handbook_2026_p13_c004_para",
+          "hust_student_handbook_2026_p17_c005_para",
+          "hust_student_handbook_2026_p5_c002_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q02",
+    "elapsed_s": 2.22
+  },
+  {
+    "status": "answered",
+    "answer": "Theo quy định tại Điều 22 Luật Giáo dục số 43/2019/QH14 được trích dẫn trong Sổ tay sinh viên, các hành vi bị nghiêm cấm bao gồm: xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học [hust_student_handbook_2026_p12_c000_para]. Đối với hành vi gian lận trong học tập, tài liệu hiện tại không liệt kê chi tiết các hành vi cụ thể bị nghiêm cấm ngoài việc dẫn chiếu đến các hành vi bị nghiêm cấm trong cơ sở giáo dục theo Luật Giáo dục [hust_student_handbook_2026_p12_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p12_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "hành vi nghiêm cấm sinh viên nhân phẩm nhà giáo gian lận học tập",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p12_c000_para",
+            "text": "22 XỬ LÝ KỶ LUẬT Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học. Sinh viên có hành vi sau đây thì bị xem xét xử lý kỷ luật: a) Các hành vi bị nghiêm cấm trong cơ sở giáo dục quy định tại Luật Giáo dục; Theo Điều 22 Luật Giáo dục số 43/2019/ QH14, các hành vi bị nghiêm cấm trong cơ sở giáo dục: - Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học. - Xuyên tạc nội dung giáo dục.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01539,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p9_c001_para",
+            "text": "Kiểm tra bảng theo dõi quá trình học tập cá nhân trên ctt.hust.edu.vn để nắm được: tiến độ và kết quả học tập; mức cảnh báo học tập; số tín chỉ nợ; khối lượng còn lại của CTĐT; tình trạng các môn học tương đương hoặc thay thế để xin chuyển điểm tương đương;..... ĐẢM BẢO ĐIỀU KIỆN HỌC TẬP Có đầy đủ giáo trình/sách tham khảo Dùng ứng dụng quản lý thời gian TẬP TRUNG VÀ TỰ HỌC Đi học đúng giờ Tập trung tâm trí cho việc học tập Đọc trước mô tả học phần/đề cương chi tiết/kế hoạch giảng dạy học phần; Nắm rõ phương pháp kiểm tra đánh giá, trọng số học phần LẬP THỜI GIAN BIỂU CHI TIẾT",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 9,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01517,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p36_c003_para",
+            "text": "Dũng cảm đấu tranh, lên án những hành vi vụ lợi, những cá nhân lợi dụng công việc để thực hiện những hành vi vi phạm phẩm chất đạo đức, làm xấu đi mối quan hệ thầy – trò. 05 Khi đoàn công tác hoặc khách đến thăm và làm việc tại Trường, người học phải có thái độ hòa nhã, cởi mở, thân thiện, lịch thiệp khi giao tiếp. 06 Tận tình giúp đỡ, hướng dẫn trong mỗi hoàn cảnh cụ thể. 07 ỨNG XỬ ĐỐI VỚI NHÀ GIÁO, CÁN BỘ & KHÁCH CỦA TRƯỜNG",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 36,
+            "metadata": {
+              "section": "to_chuc",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01517,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p12_c000_para | So_tay_sinh_vien_2026.pdf | page 12]\n22 XỬ LÝ KỶ LUẬT Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học. Sinh viên có hành vi sau đây thì bị xem xét xử lý kỷ luật: a) Các hành vi bị nghiêm cấm trong cơ sở giáo dục quy định tại Luật Giáo dục; Theo Điều 22 Luật Giáo dục số 43/2019/ QH14, các hành vi bị nghiêm cấm trong cơ sở giáo dục: - Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học. - Xuyên tạc nội dung giáo dục.\n\n[hust_student_handbook_2026_p36_c003_para | So_tay_sinh_vien_2026.pdf | page 36]\nDũng cảm đấu tranh, lên án những hành vi vụ lợi, những cá nhân lợi dụng công việc để thực hiện những hành vi vi phạm phẩm chất đạo đức, làm xấu đi mối quan hệ thầy – trò. 05 Khi đoàn công tác hoặc khách đến thăm và làm việc tại Trường, người học phải có thái độ hòa nhã, cởi mở, thân thiện, lịch thiệp khi giao tiếp. 06 Tận tình giúp đỡ, hướng dẫn trong mỗi hoàn cảnh cụ thể. 07 ỨNG XỬ ĐỐI VỚI NHÀ GIÁO, CÁN BỘ & KHÁCH CỦA TRƯỜNG",
+        "context_ids": [
+          "hust_student_handbook_2026_p12_c000_para",
+          "hust_student_handbook_2026_p36_c003_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q03",
+    "elapsed_s": 2.1
+  },
+  {
+    "status": "answered",
+    "answer": "Chương trình đào tạo tích hợp cử nhân - kỹ sư được tổ chức theo cấu trúc đào tạo kỹ sư truyền thống, trong khi chương trình tích hợp cử nhân - thạc sĩ bao gồm giai đoạn học cử nhân, sau đó học tiếp 1,5 năm theo chương trình thạc sĩ tích hợp để được cấp bằng thạc sĩ [hust_student_handbook_2026_p7_c003_para]. Các chương trình này đảm bảo tính tích hợp, thống nhất và liên tục giữa các bậc đào tạo [hust_student_handbook_2026_p7_c001_para].",
+    "citations": [
+      "hust_student_handbook_2026_p7_c001_para",
+      "hust_student_handbook_2026_p7_c003_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "cấu trúc thời gian chương trình đào tạo tích hợp hệ chính quy Bách khoa",
+        "filter": {
+          "section": "quy_che"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p7_c001_para",
+            "text": "Các chương trình đào tạo đều được được xây dựng phù hợp với các quy định của luật Giáo dục đại học hiện hành về chương trình đào tạo và văn bằng tốt nghiệp. Đảm bảo tính thực tiễn và tính hiện đại theo các chuẩn mực quốc tế và đảm bảo tính tích hợp, thống nhất, liên tục của chương trình giữa các bậc đào tạo Cử nhân và Kỹ sư & Thạc sĩ. CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - KỸ SƯ CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - THẠC SĨ KHOA HỌC Các chương trình đào tạo kỹ sư sẽ được xây dựng theo hướng chuyên sâu nghề nghiệp với",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01555,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p7_c003_para",
+            "text": "nhận được bằng tốt nghiệp cử nhân; sau đó nếu học tiếp 1,5 năm theo chương trình thạc sĩ tích hợp sẽ được cấp bằng tốt nghiệp thạc sĩ. Cấp bằng cử nhân và bằng kỹ sư cho người tốt nghiệp. Cấp bằng cử nhân và bằng thạc sĩ cho người tốt nghiệp. Chương trình tích hợp cử nhân – kỹ sư được phát triển với mục đích nâng cao chất lượng của các chương trình đào tạo kỹ sư truyền thống của ĐHBK Hà Nội. Mục tiêu của chương trình là đào tạo nguồn nhân lực có trình độ cao, năng lực nghiên cứu, đổi mới sáng tạo trong khoa học công nghệ.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01549,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p12_c006_para",
+            "text": "Đội Tình nguyện Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện 10/1985 Hội Sinh viên ĐH Bách khoa Hà Nội Đội Tình nguyện Các chương trình Chất lượng cao - CTES Đội SVTN Đồng hương Phú Thọ - Đại học Bách khoa Hà Nội Đội SVTN Chương trình Đào tạo Quốc tế - SIE",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01515,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p7_c001_para | So_tay_sinh_vien_2026.pdf | page 7]\nCác chương trình đào tạo đều được được xây dựng phù hợp với các quy định của luật Giáo dục đại học hiện hành về chương trình đào tạo và văn bằng tốt nghiệp. Đảm bảo tính thực tiễn và tính hiện đại theo các chuẩn mực quốc tế và đảm bảo tính tích hợp, thống nhất, liên tục của chương trình giữa các bậc đào tạo Cử nhân và Kỹ sư & Thạc sĩ. CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - KỸ SƯ CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - THẠC SĨ KHOA HỌC Các chương trình đào tạo kỹ sư sẽ được xây dựng theo hướng chuyên sâu nghề nghiệp với\n\n[hust_student_handbook_2026_p7_c003_para | So_tay_sinh_vien_2026.pdf | page 7]\nnhận được bằng tốt nghiệp cử nhân; sau đó nếu học tiếp 1,5 năm theo chương trình thạc sĩ tích hợp sẽ được cấp bằng tốt nghiệp thạc sĩ. Cấp bằng cử nhân và bằng kỹ sư cho người tốt nghiệp. Cấp bằng cử nhân và bằng thạc sĩ cho người tốt nghiệp. Chương trình tích hợp cử nhân – kỹ sư được phát triển với mục đích nâng cao chất lượng của các chương trình đào tạo kỹ sư truyền thống của ĐHBK Hà Nội. Mục tiêu của chương trình là đào tạo nguồn nhân lực có trình độ cao, năng lực nghiên cứu, đổi mới sáng tạo trong khoa học công nghệ.",
+        "context_ids": [
+          "hust_student_handbook_2026_p7_c001_para",
+          "hust_student_handbook_2026_p7_c003_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "cấu trúc thời gian chương trình đào tạo tích hợp cử nhân kỹ sư thạc sĩ Bách khoa",
+        "filter": {
+          "section": "quy_che"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p7_c003_para",
+            "text": "nhận được bằng tốt nghiệp cử nhân; sau đó nếu học tiếp 1,5 năm theo chương trình thạc sĩ tích hợp sẽ được cấp bằng tốt nghiệp thạc sĩ. Cấp bằng cử nhân và bằng kỹ sư cho người tốt nghiệp. Cấp bằng cử nhân và bằng thạc sĩ cho người tốt nghiệp. Chương trình tích hợp cử nhân – kỹ sư được phát triển với mục đích nâng cao chất lượng của các chương trình đào tạo kỹ sư truyền thống của ĐHBK Hà Nội. Mục tiêu của chương trình là đào tạo nguồn nhân lực có trình độ cao, năng lực nghiên cứu, đổi mới sáng tạo trong khoa học công nghệ.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01603,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p7_c001_para",
+            "text": "Các chương trình đào tạo đều được được xây dựng phù hợp với các quy định của luật Giáo dục đại học hiện hành về chương trình đào tạo và văn bằng tốt nghiệp. Đảm bảo tính thực tiễn và tính hiện đại theo các chuẩn mực quốc tế và đảm bảo tính tích hợp, thống nhất, liên tục của chương trình giữa các bậc đào tạo Cử nhân và Kỹ sư & Thạc sĩ. CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - KỸ SƯ CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - THẠC SĨ KHOA HỌC Các chương trình đào tạo kỹ sư sẽ được xây dựng theo hướng chuyên sâu nghề nghiệp với",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.0159,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p7_c004_para",
+            "text": "Đảm bảo mục tiêu đào tạo trình độ đào tạo kỹ sư theo hướng nghề nghiệp chuyên sâu, kết hợp hài hòa giữa kiến thức hiện đại và các kỹ năng cốt lõi.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01551,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p7_c001_para | So_tay_sinh_vien_2026.pdf | page 7]\nCác chương trình đào tạo đều được được xây dựng phù hợp với các quy định của luật Giáo dục đại học hiện hành về chương trình đào tạo và văn bằng tốt nghiệp. Đảm bảo tính thực tiễn và tính hiện đại theo các chuẩn mực quốc tế và đảm bảo tính tích hợp, thống nhất, liên tục của chương trình giữa các bậc đào tạo Cử nhân và Kỹ sư & Thạc sĩ. CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - KỸ SƯ CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - THẠC SĨ KHOA HỌC Các chương trình đào tạo kỹ sư sẽ được xây dựng theo hướng chuyên sâu nghề nghiệp với\n\n[hust_student_handbook_2026_p7_c003_para | So_tay_sinh_vien_2026.pdf | page 7]\nnhận được bằng tốt nghiệp cử nhân; sau đó nếu học tiếp 1,5 năm theo chương trình thạc sĩ tích hợp sẽ được cấp bằng tốt nghiệp thạc sĩ. Cấp bằng cử nhân và bằng kỹ sư cho người tốt nghiệp. Cấp bằng cử nhân và bằng thạc sĩ cho người tốt nghiệp. Chương trình tích hợp cử nhân – kỹ sư được phát triển với mục đích nâng cao chất lượng của các chương trình đào tạo kỹ sư truyền thống của ĐHBK Hà Nội. Mục tiêu của chương trình là đào tạo nguồn nhân lực có trình độ cao, năng lực nghiên cứu, đổi mới sáng tạo trong khoa học công nghệ.",
+        "context_ids": [
+          "hust_student_handbook_2026_p7_c001_para",
+          "hust_student_handbook_2026_p7_c003_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q04",
+    "elapsed_s": 3.21
+  },
+  {
+    "status": "answered",
+    "answer": "Phương pháp lập kế hoạch học tập của sinh viên bao gồm hai loại kế hoạch chính: lập kế hoạch học tập toàn khóa và lập kế hoạch học tập từng kỳ [hust_student_handbook_2026_p8_c001_para].",
+    "citations": [
+      "hust_student_handbook_2026_p8_c001_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "phương pháp lập kế hoạch học tập sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p8_c001_para",
+            "text": "Lập thời gian biểu chi tiết Lập kế hoạch học tập chi tiết của mỗi kỳ/ hiệu chỉnh kế hoạch Tập trung và tự học Đảm bảo điều kiện học tập Đánh giá kết quả LẬP KẾ HOẠCH HỌC TẬP THIẾT LẬP KẾ HOẠCH HỌC TẬP TOÀN KHÓA PHÙ HỢP VỚI: NẮM RÕ CÁC ĐIỀU KIỆN HỌC PHẦN ĐỂ LÊN KẾ HOẠCH ĐĂNG KÝ LẬP KẾ HOẠCH HỌC TẬP TOÀN KHÓA LẬP KẾ HOẠCH HỌC TẬP TỪNG KỲ CẦN PHẢI NẮM VỮNG CHƯƠNG TRÌNH ĐÀO TẠO Các thông tin chung: Trình độ khi tốt nghiệp; điều kiện tốt nghiệp; mục tiêu đào tạo; chuẩn kiến thức, kỹ năng người tốt nghiệp; khối lượng kiến thức lý thuyết, thực hành, thực tập; kế hoạch",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 8,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p9_c004_para",
+            "text": "Tuân thủ triệt để kế hoạch học tập đã đề ra Tự rèn luyện bản thân theo kế hoạch học tập Hình thành thói quen học tập hàng ngày, ghi chép bài, nghe giảng đầy đủ",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 9,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01587,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p9_c001_para",
+            "text": "Kiểm tra bảng theo dõi quá trình học tập cá nhân trên ctt.hust.edu.vn để nắm được: tiến độ và kết quả học tập; mức cảnh báo học tập; số tín chỉ nợ; khối lượng còn lại của CTĐT; tình trạng các môn học tương đương hoặc thay thế để xin chuyển điểm tương đương;..... ĐẢM BẢO ĐIỀU KIỆN HỌC TẬP Có đầy đủ giáo trình/sách tham khảo Dùng ứng dụng quản lý thời gian TẬP TRUNG VÀ TỰ HỌC Đi học đúng giờ Tập trung tâm trí cho việc học tập Đọc trước mô tả học phần/đề cương chi tiết/kế hoạch giảng dạy học phần; Nắm rõ phương pháp kiểm tra đánh giá, trọng số học phần LẬP THỜI GIAN BIỂU CHI TIẾT",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 9,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01535,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p8_c001_para | So_tay_sinh_vien_2026.pdf | page 8]\nLập thời gian biểu chi tiết Lập kế hoạch học tập chi tiết của mỗi kỳ/ hiệu chỉnh kế hoạch Tập trung và tự học Đảm bảo điều kiện học tập Đánh giá kết quả LẬP KẾ HOẠCH HỌC TẬP THIẾT LẬP KẾ HOẠCH HỌC TẬP TOÀN KHÓA PHÙ HỢP VỚI: NẮM RÕ CÁC ĐIỀU KIỆN HỌC PHẦN ĐỂ LÊN KẾ HOẠCH ĐĂNG KÝ LẬP KẾ HOẠCH HỌC TẬP TOÀN KHÓA LẬP KẾ HOẠCH HỌC TẬP TỪNG KỲ CẦN PHẢI NẮM VỮNG CHƯƠNG TRÌNH ĐÀO TẠO Các thông tin chung: Trình độ khi tốt nghiệp; điều kiện tốt nghiệp; mục tiêu đào tạo; chuẩn kiến thức, kỹ năng người tốt nghiệp; khối lượng kiến thức lý thuyết, thực hành, thực tập; kế hoạch\n\n[hust_student_handbook_2026_p9_c004_para | So_tay_sinh_vien_2026.pdf | page 9]\nTuân thủ triệt để kế hoạch học tập đã đề ra Tự rèn luyện bản thân theo kế hoạch học tập Hình thành thói quen học tập hàng ngày, ghi chép bài, nghe giảng đầy đủ",
+        "context_ids": [
+          "hust_student_handbook_2026_p8_c001_para",
+          "hust_student_handbook_2026_p9_c004_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q05",
+    "elapsed_s": 2.11
+  },
+  {
+    "status": "answered",
+    "answer": "Để thực hiện kế hoạch học tập khoa học, sinh viên cần nhận biết hai yếu tố của bản thân bao gồm: thói quen của bản thân và cá tính của bản thân [hust_student_handbook_2026_p9_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p9_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "yếu tố nhận biết bản thân kế hoạch học tập khoa học sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p9_c004_para",
+            "text": "Tuân thủ triệt để kế hoạch học tập đã đề ra Tự rèn luyện bản thân theo kế hoạch học tập Hình thành thói quen học tập hàng ngày, ghi chép bài, nghe giảng đầy đủ",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 9,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01593,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p9_c000_para",
+            "text": "16 17 THỰC HIỆN KẾ HOẠCH HỌC TẬP NHẬN BIẾT BẢN THÂN Cần tự biết những thói quen của bản thân Cần tự biết cá tính của bản thân QUY TẮC SẮP XẾP THỜI GIAN KHOA HỌC Cần sắp xếp thời gian học tập một cách khoa học: để đạt mục tiêu học tập của kỳ Khi sắp xếp thời gian phải đảm bảo 4 yếu tố: + Toàn diện + Hợp lý + Nổi bật trọng điểm + Dành khoảng thời gian trống TỰ ĐÁNH GIÁ KẾT QUẢ BẢN THÂN Tự so sánh kết quả học tập với các bạn trong lớp Tự đánh giá với kết quả đó và thời gian đã đầu tư cho học tập để kiểm tra lại mục tiêu sau mỗi học kỳ và tránh việc học thừa hoặc thiếu học phần",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 9,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01574,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p8_c000_para",
+            "text": "14 15 PHƯƠNG PHÁP LẬP KẾ HOẠCH HỌC TẬP Kế hoạch học tập toàn khóa Kế hoạch học tập từng kỳ Thực hiện kế hoạch Đánh giá �ến độ KẾ HOẠCH HỌC TẬP Là một lịch trình được sắp xếp Thể hiện lộ trình học tập theo thời gian của một khóa học VAI TRÒ CỦA KẾ HOẠCH HỌC TẬP Hỗ trợ người học đi đúng hướng; Đảm bảo được mục tiêu đầu ra Đảm bảo đúng tiến độ tại các thời điểm và cả quá trình LẬP KẾ HOẠCH HỌC TẬP LÀM SAO ĐỂ THỰC HIỆN ĐƯỢC KẾ HOẠCH ĐỀ RA Vai trò của kế hoạch học tập Nhận biết bản thân Xác định mục tiêu học tập để lập kế hoạch Quy tắc sắp xếp thời gian khoa học Lập kế hoạch học tập toàn khóa",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 8,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p9_c004_para | So_tay_sinh_vien_2026.pdf | page 9]\nTuân thủ triệt để kế hoạch học tập đã đề ra Tự rèn luyện bản thân theo kế hoạch học tập Hình thành thói quen học tập hàng ngày, ghi chép bài, nghe giảng đầy đủ\n\n[hust_student_handbook_2026_p9_c000_para | So_tay_sinh_vien_2026.pdf | page 9]\n16 17 THỰC HIỆN KẾ HOẠCH HỌC TẬP NHẬN BIẾT BẢN THÂN Cần tự biết những thói quen của bản thân Cần tự biết cá tính của bản thân QUY TẮC SẮP XẾP THỜI GIAN KHOA HỌC Cần sắp xếp thời gian học tập một cách khoa học: để đạt mục tiêu học tập của kỳ Khi sắp xếp thời gian phải đảm bảo 4 yếu tố: + Toàn diện + Hợp lý + Nổi bật trọng điểm + Dành khoảng thời gian trống TỰ ĐÁNH GIÁ KẾT QUẢ BẢN THÂN Tự so sánh kết quả học tập với các bạn trong lớp Tự đánh giá với kết quả đó và thời gian đã đầu tư cho học tập để kiểm tra lại mục tiêu sau mỗi học kỳ và tránh việc học thừa hoặc thiếu học phần",
+        "context_ids": [
+          "hust_student_handbook_2026_p9_c004_para",
+          "hust_student_handbook_2026_p9_c000_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q06",
+    "elapsed_s": 2.13
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "đánh giá phân loại điểm rèn luyện sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p10_c001_para",
+            "text": "1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01501,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p26_c001_para",
+            "text": "Sinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01397,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c002_para",
+            "text": "mức yếu trong học kỳ tương ứng. Kết quả rèn luyện được phân loại như sau: - Từ 90 điểm đến 100 điểm: loại xuất sắc; - Từ 80 điểm đến 89 điểm: loại tốt; - Từ 70 điểm đến 79 điểm: loại khá; 1. Công bố hoạt động: Các đơn vị công khai kế hoạch hoạt động trên Cổng thông tin sinh viên hoặc các kênh thông tin chính thống để sinh viên đăng ký tham gia. 2. Tham gia và cung cấp minh chứng: Sinh viên đăng ký hoạt động theo nguyện vọng, cung cấp minh chứng tham gia trên hệ thống đánh giá điểm rèn luyện và được cán bộ phụ trách xác nhận. 3. Tự đánh giá: Sinh viên thực hiện tự đánh",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p10_c001_para | So_tay_sinh_vien_2026.pdf | page 10]\n1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+        "context_ids": [
+          "hust_student_handbook_2026_p10_c001_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "nội dung đánh giá phân loại điểm rèn luyện sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01428,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c002_para",
+            "text": "mức yếu trong học kỳ tương ứng. Kết quả rèn luyện được phân loại như sau: - Từ 90 điểm đến 100 điểm: loại xuất sắc; - Từ 80 điểm đến 89 điểm: loại tốt; - Từ 70 điểm đến 79 điểm: loại khá; 1. Công bố hoạt động: Các đơn vị công khai kế hoạch hoạt động trên Cổng thông tin sinh viên hoặc các kênh thông tin chính thống để sinh viên đăng ký tham gia. 2. Tham gia và cung cấp minh chứng: Sinh viên đăng ký hoạt động theo nguyện vọng, cung cấp minh chứng tham gia trên hệ thống đánh giá điểm rèn luyện và được cán bộ phụ trách xác nhận. 3. Tự đánh giá: Sinh viên thực hiện tự đánh",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c001_para",
+            "text": "1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00968,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p10_c001_para | So_tay_sinh_vien_2026.pdf | page 10]\n1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở\n\n[hust_student_handbook_2026_p13_c004_para | So_tay_sinh_vien_2026.pdf | page 13]\ntín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+        "context_ids": [
+          "hust_student_handbook_2026_p10_c001_para",
+          "hust_student_handbook_2026_p13_c004_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "nội dung đánh giá phân loại điểm rèn luyện sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01428,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c002_para",
+            "text": "mức yếu trong học kỳ tương ứng. Kết quả rèn luyện được phân loại như sau: - Từ 90 điểm đến 100 điểm: loại xuất sắc; - Từ 80 điểm đến 89 điểm: loại tốt; - Từ 70 điểm đến 79 điểm: loại khá; 1. Công bố hoạt động: Các đơn vị công khai kế hoạch hoạt động trên Cổng thông tin sinh viên hoặc các kênh thông tin chính thống để sinh viên đăng ký tham gia. 2. Tham gia và cung cấp minh chứng: Sinh viên đăng ký hoạt động theo nguyện vọng, cung cấp minh chứng tham gia trên hệ thống đánh giá điểm rèn luyện và được cán bộ phụ trách xác nhận. 3. Tự đánh giá: Sinh viên thực hiện tự đánh",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c001_para",
+            "text": "1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00968,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p10_c001_para | So_tay_sinh_vien_2026.pdf | page 10]\n1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở\n\n[hust_student_handbook_2026_p13_c004_para | So_tay_sinh_vien_2026.pdf | page 13]\ntín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+        "context_ids": [
+          "hust_student_handbook_2026_p10_c001_para",
+          "hust_student_handbook_2026_p13_c004_para"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "q07",
+    "elapsed_s": 3.82
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "tiêu chí điểm cộng tối đa đánh giá rèn luyện sinh viên Bách khoa 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p3_c000_para",
+            "text": "4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 3,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01446,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p23_c002_para",
+            "text": "Hệ thống sổ tay sinh viên trực tuyến (online): bộ công cụ hỗ trợ việc đánh giá điểm rèn luyện cho sinh viên. Hệ thống sổ tay công tác sinh viên gồm website (được liên kết với Cổng thông tin www.ctt.hust.edu.vn) và ứng dụng di động, hỗ trợ các cá nhân có trách nhiệm: 1. Đăng ký và cập nhật thông tin tài khoản; 2. Gán quyền thao tác trên hệ thống cho các cá nhân liên quan; 3. Công bố hoạt động, tiếp nhận đăng ký tham gia nhóm và hoạt động; 4. Cung cấp minh chứng, xác nhận và đánh giá minh chứng tham gia hoạt động; 5. Tính và công bố điểm rèn luyện cho sinh viên.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.0141,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c001_para",
+            "text": "1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p3_c000_para | So_tay_sinh_vien_2026.pdf | page 3]\n4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+        "context_ids": [
+          "hust_student_handbook_2026_p3_c000_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tiêu chí điểm cộng tối đa đánh giá rèn luyện sinh viên Bách khoa 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p3_c000_para",
+            "text": "4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 3,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01446,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p23_c002_para",
+            "text": "Hệ thống sổ tay sinh viên trực tuyến (online): bộ công cụ hỗ trợ việc đánh giá điểm rèn luyện cho sinh viên. Hệ thống sổ tay công tác sinh viên gồm website (được liên kết với Cổng thông tin www.ctt.hust.edu.vn) và ứng dụng di động, hỗ trợ các cá nhân có trách nhiệm: 1. Đăng ký và cập nhật thông tin tài khoản; 2. Gán quyền thao tác trên hệ thống cho các cá nhân liên quan; 3. Công bố hoạt động, tiếp nhận đăng ký tham gia nhóm và hoạt động; 4. Cung cấp minh chứng, xác nhận và đánh giá minh chứng tham gia hoạt động; 5. Tính và công bố điểm rèn luyện cho sinh viên.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.0141,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c001_para",
+            "text": "1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p3_c000_para | So_tay_sinh_vien_2026.pdf | page 3]\n4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+        "context_ids": [
+          "hust_student_handbook_2026_p3_c000_para"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tiêu chí điểm cộng tối đa đánh giá rèn luyện sinh viên Bách khoa 2026",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p3_c000_para",
+            "text": "4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 3,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01446,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p23_c002_para",
+            "text": "Hệ thống sổ tay sinh viên trực tuyến (online): bộ công cụ hỗ trợ việc đánh giá điểm rèn luyện cho sinh viên. Hệ thống sổ tay công tác sinh viên gồm website (được liên kết với Cổng thông tin www.ctt.hust.edu.vn) và ứng dụng di động, hỗ trợ các cá nhân có trách nhiệm: 1. Đăng ký và cập nhật thông tin tài khoản; 2. Gán quyền thao tác trên hệ thống cho các cá nhân liên quan; 3. Công bố hoạt động, tiếp nhận đăng ký tham gia nhóm và hoạt động; 4. Cung cấp minh chứng, xác nhận và đánh giá minh chứng tham gia hoạt động; 5. Tính và công bố điểm rèn luyện cho sinh viên.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.0141,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p10_c001_para",
+            "text": "1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong hồ sơ quản lý sinh viên. 2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét tham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế. 3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của sinh viên. 4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không có lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 10,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.00984,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p3_c000_para | So_tay_sinh_vien_2026.pdf | page 3]\n4 5 THÔNG ĐIỆP NĂM HỌC 2026 - 2027 Đại học Bách khoa Hà Nội đang bước vào dấu mốc 70 năm xây dựng và phát triển (1956 - 2026) - một hành trình được hun đúc bằng trí tuệ, bản lĩnh và khát vọng cống hiến của nhiều thế hệ thầy cô giáo, cán bộ, sinh viên và cựu sinh viên. Từ những ngày đầu đặt nền móng cho nền giáo dục kỹ thuật của đất nước đến hôm nay, Đại học Bách khoa Hà Nội luôn giữ vai trò tiên phong trong đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo, đóng góp quan trọng vào sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+        "context_ids": [
+          "hust_student_handbook_2026_p3_c000_para"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "q08",
+    "elapsed_s": 25.54
+  },
+  {
+    "status": "answered",
+    "answer": "Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên bao gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học [hust_student_handbook_2026_p12_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p12_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Thông tư 40/2026/TT-BGDĐT hình thức xử lý kỷ luật sinh viên",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p12_c000_para",
+            "text": "22 XỬ LÝ KỶ LUẬT Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học. Sinh viên có hành vi sau đây thì bị xem xét xử lý kỷ luật: a) Các hành vi bị nghiêm cấm trong cơ sở giáo dục quy định tại Luật Giáo dục; Theo Điều 22 Luật Giáo dục số 43/2019/ QH14, các hành vi bị nghiêm cấm trong cơ sở giáo dục: - Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học. - Xuyên tạc nội dung giáo dục.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 12,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.0159,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p21_c004_para",
+            "text": "kỹ năng sống, thái độ ứng xử phù hợp trong các mối quan hệ xã hội… cho sinh viên. SỨ MỆNH - Tổ tư vấn và hỗ trợ sinh viên là một bộ phận của Ban Công tác sinh viên (tiền thân là Tổ tư vấn tâm lý sinh viên được thành lập vào ngày 26/3/2019 theo QĐ số 642A/QĐ-ĐHBK- CTSV của Hiệu trưởng ký ngày 19/3/2019). - Địa chỉ: Phòng 101-C1, ĐHBK Hà Nội - Điện thoại: 024 3869 3108 - Email: ssu@hust.edu.vn - Fanpage: https:/ /www.facebook.com/phongtuvantamlydhbkhn",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01485,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p11_c013_para",
+            "text": "6.2.1 Vi phạm Quy tắc ứng xử văn hóa * -10 6.2.2 Vi phạm các quy định của Nhà trường và pháp luật hiện hành, đã bị cơ quan có thẩm quyền lập biên bản * -20 3 Vi phạm pháp luật 6.3.1 Vi phạm pháp luật thuộc nhóm tội danh hình sự * -50 -110 (*) Dựa trên hệ thống quản lý (MC) Minh chứng được cấp khi tham gia hoạt động Tổng điểm cộng tối đa Tổng điểm trừ",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 11,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01484,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p12_c000_para | So_tay_sinh_vien_2026.pdf | page 12]\n22 XỬ LÝ KỶ LUẬT Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học. Sinh viên có hành vi sau đây thì bị xem xét xử lý kỷ luật: a) Các hành vi bị nghiêm cấm trong cơ sở giáo dục quy định tại Luật Giáo dục; Theo Điều 22 Luật Giáo dục số 43/2019/ QH14, các hành vi bị nghiêm cấm trong cơ sở giáo dục: - Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học. - Xuyên tạc nội dung giáo dục.\n\n[hust_student_handbook_2026_p21_c004_para | So_tay_sinh_vien_2026.pdf | page 21]\nkỹ năng sống, thái độ ứng xử phù hợp trong các mối quan hệ xã hội… cho sinh viên. SỨ MỆNH - Tổ tư vấn và hỗ trợ sinh viên là một bộ phận của Ban Công tác sinh viên (tiền thân là Tổ tư vấn tâm lý sinh viên được thành lập vào ngày 26/3/2019 theo QĐ số 642A/QĐ-ĐHBK- CTSV của Hiệu trưởng ký ngày 19/3/2019). - Địa chỉ: Phòng 101-C1, ĐHBK Hà Nội - Điện thoại: 024 3869 3108 - Email: ssu@hust.edu.vn - Fanpage: https:/ /www.facebook.com/phongtuvantamlydhbkhn",
+        "context_ids": [
+          "hust_student_handbook_2026_p12_c000_para",
+          "hust_student_handbook_2026_p21_c004_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q09",
+    "elapsed_s": 2.16
+  },
+  {
+    "status": "answered",
+    "answer": "Hoạt động nghiên cứu, sáng tạo và khởi nghiệp của sinh viên nhằm mục đích hỗ trợ toàn diện cho sinh viên trong các hoạt động đổi mới sáng tạo và khởi nghiệp, từ đào tạo kiến thức căn bản, phát triển ý tưởng đến hỗ trợ kết nối thương mại hóa và kêu gọi vốn đầu tư để hình thành các startup, qua đó góp phần hỗ trợ khả năng thành công của người học và nâng cao uy tín, vị thế của Đại học Bách khoa Hà Nội [hust_student_handbook_2026_p13_c003_para].",
+    "citations": [
+      "hust_student_handbook_2026_p13_c003_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "mục đích hoạt động nghiên cứu sáng tạo khởi nghiệp sinh viên Bách khoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01587,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p13_c003_para",
+            "text": "tư, các tổ chức doanh nghiệp có thể làm việc, gặp gỡ, kết nối, cùng nhau khơi nguồn sáng tạo và phát triển. BKHUB – COWORKING SPACE Trung tâm Sáng tạo và Khởi nghiệp Sinh viên – Đại học Bách khoa Hà Nội được xây dựng và phát triển là đơn vị hỗ trợ toàn diện cho sinh viên trong các hoạt động về đổi mới sáng tạo và khởi nghiệp; từ đào tạo kiến thức khởi nghiệp căn bản, phát triển ý tưởng đến hỗ trợ kết nối thương mại hóa ý tưởng, kêu gọi vốn đầu tư, để hình thành các startup của sinh viên qua đó góp phần hỗ trợ khả năng thành công của người học, đồng thời nâng cao uy",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01547,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p26_c001_para",
+            "text": "Sinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01473,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p13_c004_para | So_tay_sinh_vien_2026.pdf | page 13]\ntín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND\n\n[hust_student_handbook_2026_p13_c003_para | So_tay_sinh_vien_2026.pdf | page 13]\ntư, các tổ chức doanh nghiệp có thể làm việc, gặp gỡ, kết nối, cùng nhau khơi nguồn sáng tạo và phát triển. BKHUB – COWORKING SPACE Trung tâm Sáng tạo và Khởi nghiệp Sinh viên – Đại học Bách khoa Hà Nội được xây dựng và phát triển là đơn vị hỗ trợ toàn diện cho sinh viên trong các hoạt động về đổi mới sáng tạo và khởi nghiệp; từ đào tạo kiến thức khởi nghiệp căn bản, phát triển ý tưởng đến hỗ trợ kết nối thương mại hóa ý tưởng, kêu gọi vốn đầu tư, để hình thành các startup của sinh viên qua đó góp phần hỗ trợ khả năng thành công của người học, đồng thời nâng cao uy",
+        "context_ids": [
+          "hust_student_handbook_2026_p13_c004_para",
+          "hust_student_handbook_2026_p13_c003_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q10",
+    "elapsed_s": 2.41
+  },
+  {
+    "status": "answered",
+    "answer": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách được thực hiện theo Nghị định số 238/2025/NĐ-CP, ngày 03/09/2025 của Chính phủ [hust_student_handbook_2026_p14_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p14_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "miễn giảm học phí sinh viên chế độ chính sách văn bản quy phạm pháp luật",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p11_c013_para",
+            "text": "6.2.1 Vi phạm Quy tắc ứng xử văn hóa * -10 6.2.2 Vi phạm các quy định của Nhà trường và pháp luật hiện hành, đã bị cơ quan có thẩm quyền lập biên bản * -20 3 Vi phạm pháp luật 6.3.1 Vi phạm pháp luật thuộc nhóm tội danh hình sự * -50 -110 (*) Dựa trên hệ thống quản lý (MC) Minh chứng được cấp khi tham gia hoạt động Tổng điểm cộng tối đa Tổng điểm trừ",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 11,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01623,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p14_c000_para",
+            "text": "26 27 ĐỐI TƯỢNG VÀ MỨC MIỄN, GIẢM HỌC PHÍ Việc miễn giảm học phí cho sinh viên diện chế độ chính sách (CĐCS) được thực hiện theo Nghị định số 238/2025/NĐ-CP, ngày 03/09/2025 của Chính phủ. HƯỚNG DẪN GIẢI QUYẾT CHẾ ĐỘ CHÍNH SÁCH TT Đối tượng Mức miễn, giảm HP (%) 1 Sinh viên là con (con đẻ, con nuôi) của người có công với cách mạng được quy định tại Pháp lệnh số 02/2020/UBTVQH14 ngày 09/12/2020 của Ủy ban Thường vụ Quốc hội, gồm có: a) Con của người hoạt động cách mạng trước ngày 01/01/1945; con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày Khởi nghĩa tháng Tám năm 1945;",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 14,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01599,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p11_c000_para",
+            "text": "20 21 STT Tiêu chí đánh giá rèn luyện Minh Điểm I Tiêu chí điểm cộng (Tối đa 100 điểm) TC1 Chấp hành pháp luật và nội quy, quy chế của nhà trường (tối đa 25 điểm) 25 1 Chấp hành các quy định của pháp luật đối với công dân (tối đa 15 điểm): 1.1.1 Hiểu biết và chấp hành pháp luật của Nhà nước, quy định của nhà trường và nơi cư trú MC 6 1.1.2 Tham gia Sinh hoạt công dân do nhà trường tổ chức MC 6 1.1.3 Khai báo thông tin liên lạc và nơi cư trú theo yêu cầu của Đại học MC 4 2 Chấp hành nội quy, quy chế và các quy định của nhà trường (tối đa 15 điểm):",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 11,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01456,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p11_c013_para | So_tay_sinh_vien_2026.pdf | page 11]\n6.2.1 Vi phạm Quy tắc ứng xử văn hóa * -10 6.2.2 Vi phạm các quy định của Nhà trường và pháp luật hiện hành, đã bị cơ quan có thẩm quyền lập biên bản * -20 3 Vi phạm pháp luật 6.3.1 Vi phạm pháp luật thuộc nhóm tội danh hình sự * -50 -110 (*) Dựa trên hệ thống quản lý (MC) Minh chứng được cấp khi tham gia hoạt động Tổng điểm cộng tối đa Tổng điểm trừ\n\n[hust_student_handbook_2026_p14_c000_para | So_tay_sinh_vien_2026.pdf | page 14]\n26 27 ĐỐI TƯỢNG VÀ MỨC MIỄN, GIẢM HỌC PHÍ Việc miễn giảm học phí cho sinh viên diện chế độ chính sách (CĐCS) được thực hiện theo Nghị định số 238/2025/NĐ-CP, ngày 03/09/2025 của Chính phủ. HƯỚNG DẪN GIẢI QUYẾT CHẾ ĐỘ CHÍNH SÁCH TT Đối tượng Mức miễn, giảm HP (%) 1 Sinh viên là con (con đẻ, con nuôi) của người có công với cách mạng được quy định tại Pháp lệnh số 02/2020/UBTVQH14 ngày 09/12/2020 của Ủy ban Thường vụ Quốc hội, gồm có: a) Con của người hoạt động cách mạng trước ngày 01/01/1945; con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày Khởi nghĩa tháng Tám năm 1945;",
+        "context_ids": [
+          "hust_student_handbook_2026_p11_c013_para",
+          "hust_student_handbook_2026_p14_c000_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q11",
+    "elapsed_s": 2.64
+  },
+  {
+    "status": "answered",
+    "answer": "Không đủ bằng chứng trong tài liệu để xác định vấn đề cốt lõi đầu tiên trong quản lý tài chính cá nhân của sinh viên, tài liệu chỉ khuyến khích sinh viên trang bị kiến thức quản lý tài chính cá nhân nền tảng, bài bản và có hệ thống ngay từ những năm đầu Đại học [hust_student_handbook_2026_p15_c006_para].",
+    "citations": [
+      "hust_student_handbook_2026_p15_c006_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "quản lý tài chính cá nhân sinh viên vấn đề cốt lõi",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p7_c004_para",
+            "text": "Đảm bảo mục tiêu đào tạo trình độ đào tạo kỹ sư theo hướng nghề nghiệp chuyên sâu, kết hợp hài hòa giữa kiến thức hiện đại và các kỹ năng cốt lõi.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 7,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01554,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p15_c006_para",
+            "text": "Hãy trang bị ngay những kiến thức Quản lý tài chính cá nhân nền tảng, bài bản và có hệ thống để giúp bạn chủ động quản lý tiền bạc, giảm bớt gánh nặng tài chính, tránh bẫy lừa đảo,... ngay từ những năm đầu Đại học.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01531,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p6_c004_para",
+            "text": "Sinh viên tra cứu trên Quản lý Đào tạo (QLDT)/eHUST, cổng thông tin ĐHBKHN, cổng thông tin công tác sinh viên, liên hệ với Ban Công tác sinh viên, văn phòng Trường, Khoa chuyên môn hoặc liên hệ với cố vấn học tập và quản lý lớp sinh viên. Cổng thông tin quản lý đào tạo Sổ tay sinh viên online QUY CHẾ, THỦ TỤC, THÔNG TIN DÀNH CHO SINH VIÊN",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 6,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01479,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p7_c004_para | So_tay_sinh_vien_2026.pdf | page 7]\nĐảm bảo mục tiêu đào tạo trình độ đào tạo kỹ sư theo hướng nghề nghiệp chuyên sâu, kết hợp hài hòa giữa kiến thức hiện đại và các kỹ năng cốt lõi.\n\n[hust_student_handbook_2026_p15_c006_para | So_tay_sinh_vien_2026.pdf | page 15]\nHãy trang bị ngay những kiến thức Quản lý tài chính cá nhân nền tảng, bài bản và có hệ thống để giúp bạn chủ động quản lý tiền bạc, giảm bớt gánh nặng tài chính, tránh bẫy lừa đảo,... ngay từ những năm đầu Đại học.\n\n[hust_student_handbook_2026_p6_c004_para | So_tay_sinh_vien_2026.pdf | page 6]\nSinh viên tra cứu trên Quản lý Đào tạo (QLDT)/eHUST, cổng thông tin ĐHBKHN, cổng thông tin công tác sinh viên, liên hệ với Ban Công tác sinh viên, văn phòng Trường, Khoa chuyên môn hoặc liên hệ với cố vấn học tập và quản lý lớp sinh viên. Cổng thông tin quản lý đào tạo Sổ tay sinh viên online QUY CHẾ, THỦ TỤC, THÔNG TIN DÀNH CHO SINH VIÊN",
+        "context_ids": [
+          "hust_student_handbook_2026_p7_c004_para",
+          "hust_student_handbook_2026_p15_c006_para",
+          "hust_student_handbook_2026_p6_c004_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q12",
+    "elapsed_s": 1.94
+  },
+  {
+    "status": "answered",
+    "answer": "Học bổng Trần Đại Nghĩa của ĐHBK Hà Nội dành cho sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (bao gồm hộ nghèo, hộ cận nghèo hoặc các trường hợp có hoàn cảnh kinh tế đặc biệt khó khăn khác) và có kết quả học tập, rèn luyện tốt [hust_student_handbook_2026_p17_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p17_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "đối tượng nhận học bổng Trần Đại Nghĩa ĐHBK Hà Nội",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p17_c000_para",
+            "text": "32 33 HỌC BỔNG TRẦN ĐẠI NGHĨA ĐỐI TƯỢNG XÉT CẤP HỌC BỔNG MỤC ĐÍCH CỦA HỌC BỔNG MỨC HỌC BỔNG Học bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó khăn khác), có kết quả học tập và rèn luyện tốt. Học bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng trong học kỳ xét, cấp học bổng. NGUYÊN TẮC XÉT, CẤP HỌC BỔNG TRẦN ĐẠI NGHĨA Học bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01629,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p17_c001_para",
+            "text": "Thực hiện trách nhiệm của ĐHBKHN đối với xã hội trong công tác đào tạo nguồn nhân lực chất lượng cao phục vụ cho quá trình công nghiệp hóa, hiện đại hóa đất nước. Học bổng vinh dự mang tên GS. Trần Đại Nghĩa (1913 – 1997) - Giáo sư, kỹ sư quân sự, nhà bác học, Tướng lĩnh Quân đội nhân dân Việt Nam. Hỗ trợ cho những sinh viên của Trường có hoàn cảnh khó khăn, có ý chí, nghị lực vươn lên trong học tập. Thu hút những học sinh xuất sắc vào học tại ĐHBKHN. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên không đăng ký học tập tại thời điểm xét, cấp học bổng.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01593,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p17_c002_para",
+            "text": "Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật từ mức cảnh cáo trở lên. Không xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đã được nhận học bổng KKHT hoặc học bổng tài trợ trong học kỳ xét, cấp học bổng Trần Đại Nghĩa. Không xét, cấp học bổng Trần Đại Nghĩa cho sinh viên diện chế độ chính sách được miễn, giảm học phí theo quy định của Nhà nước. HỌC BỔNG TRAO ĐỔI SINH VIÊN ĐỐI TƯỢNG HỌC BỔNG MỨC HỌC BỔNG Học bổng xét cấp cho sinh viên xếp hạng trình độ năm học từ năm thứ 3 trở đi có CPA ≥ 3.2, ĐRL tích lũy ≥ 80, có trình độ ngoại ngữ và môn",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01556,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p17_c000_para | So_tay_sinh_vien_2026.pdf | page 17]\n32 33 HỌC BỔNG TRẦN ĐẠI NGHĨA ĐỐI TƯỢNG XÉT CẤP HỌC BỔNG MỤC ĐÍCH CỦA HỌC BỔNG MỨC HỌC BỔNG Học bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó khăn khác), có kết quả học tập và rèn luyện tốt. Học bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng trong học kỳ xét, cấp học bổng. NGUYÊN TẮC XÉT, CẤP HỌC BỔNG TRẦN ĐẠI NGHĨA Học bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ.",
+        "context_ids": [
+          "hust_student_handbook_2026_p17_c000_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q13",
+    "elapsed_s": 2.22
+  },
+  {
+    "status": "answered",
+    "answer": "Dự án An sinh ra đời dựa trên thống kê cho thấy có trên 30% sinh viên ĐHBK Hà Nội đã từng hoặc có nguyện vọng làm gia sư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin học,... [hust_student_handbook_2026_p21_c000_para]",
+    "citations": [
+      "hust_student_handbook_2026_p21_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Dự án An sinh nhu cầu làm gia sư sinh viên thống kê",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p21_c000_para",
+            "text": "40 41 DỰ ÁN AN SINH Theo thống kê, có trên 30% sinh viên ĐHB - KHN đã từng hoặc có nguyện vọng làm gia sư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin học,.... Nhằm giảm thiểu các chi phí về thời gian và tiền bạc cho các bên liên quan, dự án An sinh phát triển một hệ thống CNTT hỗ trợ tìm kiếm sinh viên dạy kèm phù hợp với nhu cầu gia sư của phụ huynh. Chúng tôi mong nhận được sự hỗ trợ của các phụ huynh, thông qua việc cung cấp thông tin tìm gia sư theo phiếu gửi yêu cầu dưới đây. Hệ thống sẽ tự động tìm kiếm, gửi danh sách các sinh viên phù hợp với yêu cầu của",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01639,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p23_c003_para",
+            "text": "(Xem thêm tại phần Điểm rèn luyện) ĐỐI TƯỢNG SỬ DỤNG CỰU SINH VIÊN CÁN BỘ GIẢNG VIÊN SINH VIÊN CÁC TRƯỜNG, KHOA CỐ VẤN HỌC TẬP PHỤ HUYNH SINH VIÊN CÁN BỘ GIẢNG VIÊN HỌC SINH PHỔ THÔNG Để góp phần chia sẻ giá trị cốt lõi của con người Bách khoa tới xã hội, tạo điều kiện để Sinh viên tìm kiếm các thông tin hướng nghiệp và việc làm, Phòng Công tác Sinh viên ĐHBK Hà Nội đã xây dựng cổng thông tin hỗ trợ hướng nghiệp và việc làm sinh viên - HustWork.",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 23,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01562,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p21_c001_para",
+            "text": "phụ huynh theo thông tin quý vị cung cấp. Nhà trường triển khai tính năng giới thiệu nhà trọ cho sinh viên trên app iCTSV từ năm 2022 với mục đích hỗ trợ việc quản lý lưu trú của sinh viên trên địa bàn thành phố Hà Nội cũng như nhằm hỗ trợ thông tin, đánh giá chất lượng nhà trọ cho sinh viên. Thông tin, đánh giá về nhà trọ sẽ do sinh viên tự nguyện cập nhật nhằm chia sẻ cho các bạn sinh viên khác. Từ đó, các bạn sinh viên có thể tiết kiệm được thời gian, công sức, tiền bạc trong việc tìm kiếm nhà trọ phù hợp. GIỚI THIỆU NHÀ TRỌ GIỚI THIỆU VIỆC LÀM THÊM, GIA SƯ CHO SINH VIÊN Đăng ký tìm",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.0149,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p21_c000_para | So_tay_sinh_vien_2026.pdf | page 21]\n40 41 DỰ ÁN AN SINH Theo thống kê, có trên 30% sinh viên ĐHB - KHN đã từng hoặc có nguyện vọng làm gia sư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin học,.... Nhằm giảm thiểu các chi phí về thời gian và tiền bạc cho các bên liên quan, dự án An sinh phát triển một hệ thống CNTT hỗ trợ tìm kiếm sinh viên dạy kèm phù hợp với nhu cầu gia sư của phụ huynh. Chúng tôi mong nhận được sự hỗ trợ của các phụ huynh, thông qua việc cung cấp thông tin tìm gia sư theo phiếu gửi yêu cầu dưới đây. Hệ thống sẽ tự động tìm kiếm, gửi danh sách các sinh viên phù hợp với yêu cầu của\n\n[hust_student_handbook_2026_p23_c003_para | So_tay_sinh_vien_2026.pdf | page 23]\n(Xem thêm tại phần Điểm rèn luyện) ĐỐI TƯỢNG SỬ DỤNG CỰU SINH VIÊN CÁN BỘ GIẢNG VIÊN SINH VIÊN CÁC TRƯỜNG, KHOA CỐ VẤN HỌC TẬP PHỤ HUYNH SINH VIÊN CÁN BỘ GIẢNG VIÊN HỌC SINH PHỔ THÔNG Để góp phần chia sẻ giá trị cốt lõi của con người Bách khoa tới xã hội, tạo điều kiện để Sinh viên tìm kiếm các thông tin hướng nghiệp và việc làm, Phòng Công tác Sinh viên ĐHBK Hà Nội đã xây dựng cổng thông tin hỗ trợ hướng nghiệp và việc làm sinh viên - HustWork.",
+        "context_ids": [
+          "hust_student_handbook_2026_p21_c000_para",
+          "hust_student_handbook_2026_p23_c003_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q14",
+    "elapsed_s": 2.03
+  },
+  {
+    "status": "answered",
+    "answer": "Chi bộ Sinh viên Công nghệ thông tin và Truyền thông trực thuộc Trường Công nghệ thông tin và Truyền thông [hust_student_handbook_2026_p26_c000_para].",
+    "citations": [
+      "hust_student_handbook_2026_p26_c000_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Chi bộ Sinh viên Công nghệ thông tin và Truyền thông trực thuộc",
+        "filter": {
+          "section": "doan_hoi"
+        },
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p26_c000_para",
+            "text": "08 Chi bộ Sinh viên Kinh tế Sinh viên thuộc Trường Kinh tế. 07 Chi bộ Sinh viên Cơ khí Sinh viên thuộc Trường Cơ khí. 06 Chi bộ Sinh viên Công nghệ thông tin và Truyền thông Sinh viên thuộc Trường Công nghệ thông tin và Truyền thông. 05 Chi bộ Sinh viên Toán – Tin Sinh viên thuộc Khoa Toán – Tin. 04 Chi bộ Sinh viên Điện – Điện tử Sinh viên thuộc Trường Điện – Điện tử. 03 Chi bộ Sinh viên Vật liệu Sinh viên thuộc Trường Vật liệu. 02 Chi bộ Sinh viên Hóa và Khoa học sự sống Sinh viên thuộc Trường Hóa và Khoa học sự sống. 01 Chi bộ Sinh viên trực thuộc Đảng ủy Đại học",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01639,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p26_c001_para",
+            "text": "Sinh viên thuộc Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội. 50 CHI BỘ SINH VIÊN Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN. Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01593,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p26_c005_para",
+            "text": "thứ (cấp ủy) về Văn phòng Đảng ủy Đại học. 51 CHI BỘ SINH VIÊN Quy trình chuyển sinh hoạt từ địa phương đến Đảng bộ Đại học Bách khoa Hà Nội đối với sinh viên là đảng viên (chính thức hoặc dự bị), gồm các bước sau: Sau đó, Đảng viên tham gia sinh hoạt tại chi bộ tại chi bộ sinh viên được tiếp nhận. Để không bỏ lỡ lịch sinh hoạt Chi bộ (tối thiểu mỗi tháng/lần), giai đoạn đầu, c ần giữ liên hệ thường xuyên với cấp ủy chi bộ. Nên tham gia các nhóm liên hệ Online (MSTeam/Zalo/Facebook) của Chi bộ. Địa chỉ làm việc và thông tin liên hệ:",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 26,
+            "metadata": {
+              "section": "doan_hoi",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01587,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p26_c000_para | So_tay_sinh_vien_2026.pdf | page 26]\n08 Chi bộ Sinh viên Kinh tế Sinh viên thuộc Trường Kinh tế. 07 Chi bộ Sinh viên Cơ khí Sinh viên thuộc Trường Cơ khí. 06 Chi bộ Sinh viên Công nghệ thông tin và Truyền thông Sinh viên thuộc Trường Công nghệ thông tin và Truyền thông. 05 Chi bộ Sinh viên Toán – Tin Sinh viên thuộc Khoa Toán – Tin. 04 Chi bộ Sinh viên Điện – Điện tử Sinh viên thuộc Trường Điện – Điện tử. 03 Chi bộ Sinh viên Vật liệu Sinh viên thuộc Trường Vật liệu. 02 Chi bộ Sinh viên Hóa và Khoa học sự sống Sinh viên thuộc Trường Hóa và Khoa học sự sống. 01 Chi bộ Sinh viên trực thuộc Đảng ủy Đại học",
+        "context_ids": [
+          "hust_student_handbook_2026_p26_c000_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q15",
+    "elapsed_s": 1.93
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "học phí đại trà Đại học Bách khoa Hà Nội 2035",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p13_c004_para",
+            "text": "tín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 13,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01639,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p2_c003_para",
+            "text": "Trường Đại học Bách Khoa Hà Nội chuyển thành Đại học Bách Khoa Hà Nội theo Quyết định số 1512/QĐ-TTg ngày 02/12/2022 của Thủ tướng Chính phủ. 2020 Tổ chức thành công Đại hội đại biểu Đảng bộ Trường Đại học Bách Khoa Hà Nội; Trường có bộ máy lãnh đạo mới. 4 nhóm ngành trong Top 351 - 500 thế giới (QS WUR 2020); Top 300 thế giới các trường ĐH tốt nhất tại các nước có nền kinh tế mới nổi (THE); Top 33 thế giới về lĩnh vực Năng lượng sạch và chi phí hợp lý (THE). 2024 - 2025 Đạt quy mô đào tạo gần 44.000 người học với tổng thu vượt mốc 1.500 tỷ đồng, ghi nhận bước phát triển mạnh mẽ về nguồn",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 2,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01613,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p17_c005_para",
+            "text": "Tăng cường hội nhập quốc tế, góp phần quảng bá và nâng cao hình ảnh, vị thế của Đại học Bách khoa Hà Nội. Thu hút học sinh xuất sắc vào học tại ĐHBK Hà Nội",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01558,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p13_c004_para | So_tay_sinh_vien_2026.pdf | page 13]\ntín, vị thế của Đại học Bách khoa Hà Nội. Địa điểm: Tầng 2 tòa HUST DIGITAL HUB, Đại học Bách khoa Hà Nội https:/ /bke.hust.edu.vn/ TRUNG TÂM SÁNG TẠO VÀ KHỞI NGHIỆP SINH VIÊN QUỸ ĐẦU TƯ MẠO HIỂM BKFUND\n\n[hust_student_handbook_2026_p2_c003_para | So_tay_sinh_vien_2026.pdf | page 2]\nTrường Đại học Bách Khoa Hà Nội chuyển thành Đại học Bách Khoa Hà Nội theo Quyết định số 1512/QĐ-TTg ngày 02/12/2022 của Thủ tướng Chính phủ. 2020 Tổ chức thành công Đại hội đại biểu Đảng bộ Trường Đại học Bách Khoa Hà Nội; Trường có bộ máy lãnh đạo mới. 4 nhóm ngành trong Top 351 - 500 thế giới (QS WUR 2020); Top 300 thế giới các trường ĐH tốt nhất tại các nước có nền kinh tế mới nổi (THE); Top 33 thế giới về lĩnh vực Năng lượng sạch và chi phí hợp lý (THE). 2024 - 2025 Đạt quy mô đào tạo gần 44.000 người học với tổng thu vượt mốc 1.500 tỷ đồng, ghi nhận bước phát triển mạnh mẽ về nguồn\n\n[hust_student_handbook_2026_p17_c005_para | So_tay_sinh_vien_2026.pdf | page 17]\nTăng cường hội nhập quốc tế, góp phần quảng bá và nâng cao hình ảnh, vị thế của Đại học Bách khoa Hà Nội. Thu hút học sinh xuất sắc vào học tại ĐHBK Hà Nội",
+        "context_ids": [
+          "hust_student_handbook_2026_p13_c004_para",
+          "hust_student_handbook_2026_p2_c003_para",
+          "hust_student_handbook_2026_p17_c005_para"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "q_dev_unans_01",
+    "elapsed_s": 2.25
+  },
+  {
+    "status": "answered",
+    "answer": "Không có thông tin trong tài liệu về chính sách hỗ trợ 100% tiền vé máy bay khứ hồi cho toàn bộ sinh viên có hộ khẩu miền Nam về quê ăn Tết. Thông tin về vé máy bay trong tài liệu chỉ liên quan đến học bổng trao đổi sinh viên [hust_student_handbook_2026_p17_c003_para].",
+    "citations": [
+      "hust_student_handbook_2026_p17_c003_para"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "chính sách hỗ trợ vé máy bay sinh viên về quê ăn Tết",
+        "filter": null,
+        "results": [
+          {
+            "id": "hust_student_handbook_2026_p17_c003_para",
+            "text": "đăng ký học tập/ thực tập phù hợp. Học bổng có giá trị tối đa là 30 triệu đồng/sinh viên. Học bổng được cấp bằng vé máy bay khứ hồi và gói bảo hiểm du lịch quốc tế Flexi mức Vàng của công ty Bảo hiểm Bảo Việt (học bổng không cấp bằng tiền mặt). QUY TRÌNH XÉT, CẤP HỌC BỔNG Ban Công tác sinh viên thông báo công khai thông tin về các chương trình học bổng trao đổi sinh viên trên QLĐT/ eHUST. Sinh viên đăng ký xét học bổng bằng hình thức trực tuyến (online) và nộp hồ sơ văn bản giấy về Ban Công tác sinh viên. Hết thời gian đăng ký, Ban Công tác sinh viên tổng hợp danh sách và báo cáo Hội đồng xét,",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 17,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01531,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p15_c000_para",
+            "text": "28 29 TÀI CHÍNH SINH VIÊN THIẾT LẬP MỤC TIÊU VÀ LẬP KẾ HOẠCH NHỮNG VẤN ĐỀ CỐT LÕI VỀ TÀI CHÍNH CÁ NHÂN 1. QUẢN LÝ NGÂN SÁCH THÁNG Mỗi sinh viên cần chủ động quản lý tài chính cá nhân để ổn định đời sống, biết cách tiếp cận các chương trình hỗ trợ tài chính của Nhà nước và Nhà trường giúp giảm bớt gánh nặng kinh tế, tối ưu thu nhập, quản lý chi tiêu hiệu quả, chọn lựa và sử dụng các dịch vụ tài chính an toàn, phòng tránh các bẫy lừa đảo về tài chính. Mục tiêu là bản đồ dẫn đường cho hành động Xác định mục tiêu cá nhân cho 5 năm học Lập kế hoạch tài chính để đạt được mục tiêu",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01525,
+            "strategy": "hybrid_weighted_rrf"
+          },
+          {
+            "id": "hust_student_handbook_2026_p21_c000_para",
+            "text": "40 41 DỰ ÁN AN SINH Theo thống kê, có trên 30% sinh viên ĐHB - KHN đã từng hoặc có nguyện vọng làm gia sư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin học,.... Nhằm giảm thiểu các chi phí về thời gian và tiền bạc cho các bên liên quan, dự án An sinh phát triển một hệ thống CNTT hỗ trợ tìm kiếm sinh viên dạy kèm phù hợp với nhu cầu gia sư của phụ huynh. Chúng tôi mong nhận được sự hỗ trợ của các phụ huynh, thông qua việc cung cấp thông tin tìm gia sư theo phiếu gửi yêu cầu dưới đây. Hệ thống sẽ tự động tìm kiếm, gửi danh sách các sinh viên phù hợp với yêu cầu của",
+            "source_id": "hust_student_handbook_2026",
+            "source": "So_tay_sinh_vien_2026.pdf",
+            "page": 21,
+            "metadata": {
+              "section": "quy_che",
+              "chunk_type": "paragraph"
+            },
+            "score": 0.01417,
+            "strategy": "hybrid_weighted_rrf"
+          }
+        ],
+        "context": "[hust_student_handbook_2026_p17_c003_para | So_tay_sinh_vien_2026.pdf | page 17]\nđăng ký học tập/ thực tập phù hợp. Học bổng có giá trị tối đa là 30 triệu đồng/sinh viên. Học bổng được cấp bằng vé máy bay khứ hồi và gói bảo hiểm du lịch quốc tế Flexi mức Vàng của công ty Bảo hiểm Bảo Việt (học bổng không cấp bằng tiền mặt). QUY TRÌNH XÉT, CẤP HỌC BỔNG Ban Công tác sinh viên thông báo công khai thông tin về các chương trình học bổng trao đổi sinh viên trên QLĐT/ eHUST. Sinh viên đăng ký xét học bổng bằng hình thức trực tuyến (online) và nộp hồ sơ văn bản giấy về Ban Công tác sinh viên. Hết thời gian đăng ký, Ban Công tác sinh viên tổng hợp danh sách và báo cáo Hội đồng xét,",
+        "context_ids": [
+          "hust_student_handbook_2026_p17_c003_para"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "q_dev_unans_02",
+    "elapsed_s": 22.6
+  }
+]

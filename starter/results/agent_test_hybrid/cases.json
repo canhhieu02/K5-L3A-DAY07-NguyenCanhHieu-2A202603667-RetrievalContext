@@ -1,0 +1,95 @@
+[
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Đội ngũ cán bộ giảng viên của Khoa Toán - Tin Đại học Bách khoa Hà Nội có số lượng và trình độ như thế nào?",
+    "expected_answer": "Khoa có 68 cán bộ, trong đó có 55 cán bộ có học vị Tiến sỹ bao gồm 13 Phó giáo sư.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 32,
+        "evidence": "Đội ngũ cán bộ của Khoa với 68 cán bộ trong đó có 55 cán bộ có học vị Tiến sỹ bao gồm 13 Phó giáo sư."
+      }
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Vì sao sinh viên nên tham gia các tổ chức và hoạt động ngoại khóa?",
+    "expected_answer": "Để kết nối những người bạn mới, chia sẻ đam mê và sở thích, tránh bỏ lỡ các trải nghiệm quý giá thời sinh viên.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 49,
+        "evidence": "Nếu không một lần tham gia các tổ chức của sinh viên, có rất nhiều điều bạn sẽ bỏ lỡ... NHỮNG NGƯỜI BẠN MỚI BẠN CÓ ĐAM MÊ VÀ CÓ THỂ CHIA SẺ ĐAM MÊ"
+      }
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Quan điểm đúng đắn về mục đích của việc đi làm thêm đối với sinh viên là gì?",
+    "expected_answer": "Làm thêm là vì tích lũy kinh nghiệm và chọn việc gần với ngành nghề học tập, chứ không phải để mưu sinh.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 51,
+        "evidence": "Làm thêm vì tích lũy kinh nghiệm chứ không phải để mưu sinh. Chọn việc làm thêm gần với ngành nghề Học hỏi kinh nghiệm từ các bậc “tiền bối”"
+      }
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Sinh viên cần cảnh giác với chiêu trò lừa đảo nào dưới danh nghĩa việc làm thêm?",
+    "expected_answer": "Cảnh giác với các chiêu lừa đảo việc làm thêm thực chất là kinh doanh đa cấp biến tướng hoặc thu tiền cọc bất chính.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 52,
+        "evidence": "Hãy cảnh giác với các chiêu lừa đảo! Những công việc được sinh viên ưu tiên chọn lựa “ “ “ “ Gần đây có nhiều thông tin về các chiêu lừa đảo “việc làm thêm” (thực chất là kinh doanh đa"
+      }
+    ],
+    "filter": {
+      "section": "kinh_nghiem"
+    },
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Lời khuyên về xây dựng tình bạn, tình yêu và quan điểm về sống thử của sinh viên là gì?",
+    "expected_answer": "Sinh viên đến từ mọi miền đất nước có phong tục ngôn ngữ khác nhau cần tôn trọng sự khác biệt, thận trọng và có trách nhiệm trong tình cảm và lối sống.",
+    "gold": [
+      {
+        "source_id": "hust_student_handbook_2026",
+        "page": 53,
+        "evidence": "SINH VIÊN RẤT DỄ...YÊU QUAN ĐIỂM VỀ SỐNG THỬ Học ở đại học, thành viên trong lớp đến từ mọi miền đất nước, các bạn sẽ có ngôn ngữ"
+      }
+    ],
+    "answerable": true
+  },
+  {
+    "id": "q_test_unans_01",
+    "split": "test",
+    "question": "Quy trình xin visa chuyển tiếp sang Viện Công nghệ Massachusetts (MIT) được trường Đại học Bách khoa Hà Nội hướng dẫn chi tiết ở điều mấy?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Sổ tay sinh viên không chứa điều khoản hay quy trình cụ thể nào về việc xin visa chuyển tiếp sang MIT.",
+    "expected_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "gold": []
+  },
+  {
+    "id": "q_test_unans_02",
+    "split": "test",
+    "question": "Sinh viên năm thứ nhất được cấp bao nhiêu thẻ đỗ xe ô tô miễn phí trong khuôn viên trường theo quy chế?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong sổ tay chỉ có các quy định chung về trật tự nội vụ và thẻ sinh viên, hoàn toàn không có quy định cấp thẻ đỗ xe ô tô miễn phí cho sinh viên năm nhất.",
+    "expected_answer": "Không đủ bằng chứng trong tài liệu để trả lời.",
+    "gold": []
+  }
+]
