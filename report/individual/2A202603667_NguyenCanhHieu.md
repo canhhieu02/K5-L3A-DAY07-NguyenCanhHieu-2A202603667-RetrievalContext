@@ -1,6 +1,6 @@
 # Báo cáo Cá Nhân — Day 7 · Agentic RAG & Context Engineering
 
-**Học viên:** Nguyễn Cảnh Hiệu  
+**Học viên:** Nguyễn Cảnh Hiếu  
 **MSSV:** 2A202603667  
 **Lớp:** K5-L3A  
 **Chủ đề:** Sổ tay sinh viên Đại học Bách khoa Hà Nội 2026 (`hust.edu.vn`)
